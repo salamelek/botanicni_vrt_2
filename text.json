@@ -1,0 +1,1792 @@
+{
+  "index": {
+    "introduction": "<p>Dobrodošli na spletni strani našega botaničnega vrta!<br>Tukaj lahko odkrijete nekaj novega o nas, o rastlinah na vrtu in njegovi zgodovini.</p>",
+    "tloris": "<h2>Tloris</h2><p>Ta razdelek naše spletne strani je namenjen interaktivnim tlorisu. Dovolj bo pritisk na območje tlorisa, da si ogledate opis območja in seznam rastlin, ki so na njem prisotne.</p>"
+  },
+  "info": {
+    "nastanek": "<h2>Nastanek spletne strani</h2><p>Spletna stran je projekt 3. razreda znanstvenega liceja Simona Gregorčiča s slovenskim učnim jezikom v Gorici. Projekt je bil zasnovan v šolskem letu 2020/21. Zamisel se je porodila med lekcijami informatike na daljavo in je imela za cilj predstavitev šolskega botaničnega vrta širši javnosti in istočasno pridobivanje kompetenc pri pripravi spletnih strani.</p>",
+    "primorski": "<h3>Primorski dnevnik, 27. 11. 1997</h3><h2>Dijaki in profesorji si sami urejajo vrt ob šoli</h2><h4>Po sili razmer (občina ni mignila z mezincem) so si zavihali rokave, iz tega pa je nastal zanimiv in poučen šolski park</h4><p>Ob slovenskem šolskem centru v Puccinijevi ulici nastaja botanični vrt in to predvsem po zaslugi mentorjev oziroma profesorjev, referentov za okolje, zavzetosti dijakov, tehničnega osebja in sodelovanja ravnateljev ter, ne nazadnje, donatorjev, ki so prispevali za nakup dreves. Prva zamisel je nastala že pred kakšnim letom, vendar pa je na novo oživela v drugi polovici oktobra letos.<br>Ob šolskih poslopjih so do zdaj zasadili več kot 60 vrst dreves in grmovnic. Še nekaj jih bodo danes, ko bo ob 11. uri v centru osrednji dogodek, nekakšen praznik dreves, s katerim bodo nekako zaokrožili prvi poseg. Krampe in lopate bodo spravili do spomladi, do tedaj pa bodo skušali zbrati še nekaj sponzorjev. Načrt so namreč zastavili zelo resno, potem ko so dolgo zaman trkali na vrata občine, ki bi bila dolžna poskrbeti tudi za ureditev okolice. Ne gre ob tem pozabiti, da šolski center kljub številnim pomanjkljivostim deluje že sedmo leto.<br>Botanični vrt nameravajo v prihodnjih letih tako urediti in opremiti, da bo odprt tudi dijakom drugih šol in celotni skupnosti. Urejanje vrta usklajujejo referenti za okolje profesorji Harjet Dornik, Danja Bregant in Janez Biancuzzi, delajo pa večkrat tudi v popoldanskem času.<br>V spremstvu prof. Dornikove in Bregantove smo se te dni tudi že sprehodili skozi bodoči park, ki bo urejen v treh delih in ki bo prvič ozelenel spomladi. Samoiniciativa je dobila pred kratkim spodbudo in priznanje tudi s strani ministrstva za šolstvo, kar je dodaten razlog za to, da se bo večletni načrt izvajal tudi v prihodnje.<br>Bralce bo prav gotovo zanimalo, kako je prišlo do odločitve za začetek urejanja okolice. Zelo preprosto povedano: prvič iz potrebe, drugič zaradi videza, tretjič iz pedagoških razlogov. Poslopja šolskega centra imajo kovinsko kritino in so brez klimatskih naprav. Drevesa - posadili so namreč lepo razvite primerke - naj bi poleg estetskega videza, pomagala blažiti poletno pripeko. Kar nikakor ni malo.<br>Za urejanje botaničnega vrta so prispevali (za nakup dreves) podjetje Copego, Andrej Kosič, Look/La Goriziana, Vinko Levstik, Simon Terpin, tiskarna Budin in urarna Šuligoj. Z nasveti so pomagali pri Gozdni upravi, veliko razumevanja pa so našli tudi v drevesnici Petrini v Ronkah.<br>Vsem se pobudniki in mentorji iskreno zahvaljujejo in se obenem priporočajo novim sponzorjem. Tudi zato, ker nameravajo po botaničnem vrtu urediti tudi igrišče na odprtem.</p>",
+    "novi_glas": "<h3>Novi glas, 27. 11. 1997</h3><h2>Šola v zelenju</h2><p>Načrt šola v zelenju je razživel na začetku letošnjega šolskega leta, ko so ministrska navodila predlagala šolam za drugo polovico oktobra “ekološki teden”. Na klasičnem liceju smo načrtovali predavanje na ekološko tematiko in povabili medse psihologa Huberta Požarnika, klenega zagovornika pristnejšega odnosa do narave, človeka in sveta okrog nas. Tudi na drugih zavodih v goriškem središču slovenskih višjih srednjih šol smo razmišljali, kakšen bi lahko bil naš doprinos k tej tematiki, vendar naj bi bil naš prispevek drugačen, živ, stvaren, nikakor ne kalupni in rutinski. Tako smo se začeli ogrevati za težko uresničljive sanje o zelenju okrog šolskih poslopij. Odkar smo se vselili v to središče in se za silo uredili, je zavladala neka moreča statičnost. Iz leta v leto se postavljajo na dnevni red vedno ista nerešena vprašanja: manjkajoča oprema in lopa za kolesa, stiska s prostori, ker so ob dežju kletni prostori poplavljeni, torej neuporabni, puščanje streh med deževjem, pripeka v pomladanskih in poletnih dneh, nič dreves...Naravoslovci, in ne le mi, smo si želeli več zelenja okrog sebe in ne le golo travo. Tako smo ponovno vzeli v roke načrt, ki so ga hoteli pred leti izvesti na zavodu I. Cankar in je iz finančnih vzrokov obtičal v predalu. Tudi si nismo bili na jasnem, ali je za tako pobudo potrebna posebna avtorizacija. Najtežje je bilo pravzaprav razčistiti, ali in koliko nam bo občina pustila proste roke in kako to izvesti, ne da bi imeli katerokoli postavko, iz katere črpati finančna sredstva. Kljub tem težavam so si na pedagoškem liceju močno želeli narediti nekaj stvarnega že to jesen. Ostali smo se nalezli tega navdušenja in ko smo delali majhne korake vsakdo po lastni iniciativi, a vsi v isto smer, smo se zavedali, da je pravzaprav veliko laže, kot smo si sprva predstavljali. Odkrili smo, da nas ne bo nihče iz uprav podprl, a niti oviral in da je uspeh pobude pravzaprav odvisen od naše iznajdljivosti in dobre volje. Kmalu so se nad tem začeli navduševati še dijaki, ki so se zelo izkazali in dali temu načrtu odločilen prispevek. Kopali so jame za drevesa, nosili oporne kole in gnojila, humusno zemljo in sadike, in to v času, ko bi lahko mirno uživali med svojimi medrazrednimi zborovanji. Zato smo za dosedanjo izvedbo načrta izgubili prav malo učnih ur. Ob tolikšnem odzivu smo referenti za okolje začeli sanjati na debelo in navdušeno razmišljali o uresničenju botaničnega vrta v šolskem središču, kjer naj bi nas vsako drevo in vsaka grmovnica povezovala z našo kraško gmajno, okoliško floro in alpskim svetom. Vsako rastlino bi imeli na dosego roke, ne bi bilo več potrebno voditi dijake po mestu na ogled dreves in naravoslovne ure bi lahko potekale v povsem drugačnem vzdušju. Lahko bi doživljali drevo skozi vse letne faze in ga na veliko prijetnejši način spoznavali in torej bolj cenili in vzljubili. Ob vsem tem bi nam z leti ta avtohtotna drevesa nudila še potrebno senco in izboljšala zrak. Izboljšali bi pogoje za šolsko delo tako dijakov kot drugega osebja v zahtevnem procesu šolskega dela. Učenje, poučevanje in delo za šolo je zlasti naporno in mučno ob koncu šolskega leta, ko je pripeka zaradi posebne strukture stavb huda. Središče se je razgibalo od tega našega iskanja in poskusov, radovednosti in navdušenja okoli našega pionirskega in včasih nerodnega dela. Posadili smo čez 40 različnih dreves in grmovnic. Vzporedno s prizadevanji za botanični vrt smo se posvečali predelu pred zavodom I. Cankar, ki je med tremi krili posebej izpostavljeno poletni pripeki. Tam so bila potrebna že velika drevesa. Tu ni šlo brez pomoči nekaterih podjetnikov in posameznikov, ki so nam finančno priskočili na pomoč. To so bili do sedaj Look in COPEGO, slikar Andrej Kosič, hotelir Vinko Levstik, podjetje Terpin, urar Šuligoj, tiskarni Budin in Grafica Goriziana. Vsem se res iskreno zahvaljujemo za občutljivost in darežljivost. Ker smo to zelenje čakali že sedem let, smo si za ta predel privoščili bolj slikovite gojene rastlinske vrste, s katerimi bi se celoten center lepše predstavil tudi navzven.<br>Načrt Šola v zelenju presega po svojem pomenu sam šolski center, saj bo lahko zanimiv tudi za druge šole in skupine. Rastline bomo v naslednji fazi opremili s kovinskimi tablicami s strokovnimi imeni in zanje izdelali spremne shede. Po glavah nam roji še veliko zamisli, ki bi nadaljevale in dopolnjevale ta načrt. Zaenkrat smo zelo veseli in presenečeni nad tem, kako smo z golim navdušenjem vse izpeljali brez finančnih stroškov za naše šolske zavode, z lastnimi rokami in z darežlivostjo naših ljudi. To enomesečno kulturo dogajanje, ki je zajelo naše središče, bomo z veseljem praznovali prihodnji teden z Jesenskim praznikom, ker smo bili deležni toliko lepih in veselih, neobičajnih šolskih trenutkov v večji sproščenosti in medsebojni povezanosti. Na ta dan bodo dijaki zasadili še zadnje sadike, uredili in počistili prostor okoli šolskih stavb in se končno vsi zbrali ob prigrizku in glasbi.</p>"
+  },
+  "workInProgress": "<h1>ŽAL TA DEL STRANI NI ŠE BIL OBDELAN.</h1>",
+  "viri": "<h1>VNESI SEM VIRE</h1>",
+  "plants": {
+    "hribovito": {
+      "name": "Hribovito Področje",
+      "plants": {
+        "acer_platanoides": {
+          "slo": "ostrolistni javor",
+          "lat": "Acer platanoides",
+          "ita": "acero platanoide",
+          "videz": "Ostrolistni javor je listopadno drevo, ki se pojavlja po vsej Sloveniji do nadmorske višine 800 m. Zelo pogost je tudi v mestih. Drevo zraste do 35 m v višino in njegov polmer doseže 1 m.",
+          "listi": "Listi so dlanasto krpati, 8-13 cm dolgi in do 12 cm široki. Krp je od 5 do 7. Pecelj doseže dolžino 12 cm. Listne krpe so grobo nažagane. Listi so temno zeleni, jeseni se obarvajo v rumeno, oranžno ali rdeče.",
+          "plodovi": "Plodovi so samare, ki so sestavljene iz dveh mrežasto žilnatih krilatih plodičev, ki oklepata kot skoraj 90°.",
+          "cvetovi": "Cvetovi so rumeni in združeni v 4-8 cm dolge češulje. Posamezni cvetovi so 10-12 mm široki. Lahko so dvospolni, moški ali ženski, med sabo so si zelo podobni.",
+          "viri": [
+            "vir1",
+            "vir2",
+            "vir3"
+          ],
+          "viri_slike": {
+            "slika1": "vir1",
+            "slika2": "vir2"
+          }
+        },
+        "acer_pseudoplatanus": {
+          "slo": "gorski javor, beli javor",
+          "lat": "Acer pseudoplatanus",
+          "ita": "acero di monte",
+          "videz": "Gorski javor je listopadno drevo, ki zraste do 40 m visoko in doseže premer do 2 m. V mladosti je skorja sivkasta in gladka, z leti pa se z nje luščijo velike krpe, tako da postane svetlo lisasta.",
+          "listi": "Listi so dlanasto krpati, 8-16 cm dolgi in do 20 cm široki. Krp je 5, spodnji dve sta manjši od ostalih. Listne krpe so široko jajčaste in grobo nažagane, zareze med njimi so ostre.",
+          "plodovi": "",
+          "cvetovi": "",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "acer_saccharinum": {
+          "slo": "srebrni javor",
+          "lat": "Acer saccharinum",
+          "ita": "acero sacarino",
+          "videz": "Srebrni javor je listopadno drevo, ki zraste do 40 m visoko. Krošnja je visoka, zaobljena in podolgovata. Skorja je na deblu sivastorjava in dolgo ostane gladka, pri starejših drevesih plitvo razpoka.",
+          "listi": "Listi so dlanasto deljeni, 6-11 cm dolgi, 9-10 cm široki. Pecelj je pogosto rdečkast, dolg 8-12 cm. Listnih krp je 5, spodnji dve sta manjši. Krpe so ostro zašiljene in po robu globoko in nepravilno dvakrat nažagane. Zareze med njimi so globoke. Spodnja stran listne ploskve je srebrnosiva do bela. Listne žile izstopajo.",
+          "cvetovi": "Cvetovi so rdeči ali zelenkasto rumeni, razvijejo se iz stranskih brstov, večinoma so enospolni, redko dvospolni. Moški cvetovi so sedeči in imajo od 6-8 prašnikov, ženski cvetovi so pecljati in imajo močno dlakavo plodnico.",
+          "plodovi": "Plod visi na 3-5 cm dolgem peclju. Sestavljen je iz dveh krilatih delnih plodičev, katerih krilci sta srpasto ukrivljeni, oklepata ostri kot in sta dolgi 3,5-6 cm. Dozori v maju ali v juniju.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "alnus_incana": {
+          "slo": "siva jelša",
+          "lat": "Alnus incana",
+          "ita": "ontano bianco",
+          "videz": "Siva jelša je do 20 m visoko listopadno drevo. Ima manjšo široko stožčasto ali stebrasto, gosto krošnjo s pokončnimi vejami. Deblo je večkrat nekoliko krivo. Skorja je na deblu siva.",
+          "listi": "Listi so enostavni, jajčasti ali ovalni, 4-10 cm dolgi, 3-7 cm široki. Po robu so listi sive jelše grobo dvakrat nažagani. V začetku so drobno dlakavi, pozneje ogolijo in ostanejo dlakavi samo ob žilah.",
+          "cvetovi": "Cvetovi so združeni v mačice, ki se razvijejo že poleti prejšnjega leta. Moške mačice so rumene, viseče in dolge do 9 cm, ženske pa so kratkopecljate in rdeče.",
+          "plodovi": "Soplodja so olesenela in podobna majhnim storžkom rjave barve. Plodovi so majhni krilati oreški.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "alnus_glutinosa": {
+          "slo": "črna jelša",
+          "lat": "Alnus glutinosa",
+          "ita": "ontano nero",
+          "videz": "Črna jelša je 25 m visoko, listopadno drevo z ravnim in vitkim deblom. Prvotno je skorja gladka in zelenkastorjava, pozneje močno potemni in razpoka v ploščice.",
+          "listi": "Listi so enostavni, široko narobe jajčasti. Dolgi so 4-10 cm, široki 3-7 cm. Zgoraj so goli in bleščeči, spodaj pa svetlejši.V pazduhah žil so prisotni šopki rjavkastih dlačic.",
+          "cvetovi": "Cvetovi so moški in ženski. Moški cvetovi imajo neznatno cvetno odevalo. Združeni so v nekaj cm dolge vijoličaste mačice, v skupinah po 3-4.. Ženski cvetovi so brez cvetnega odevala, združujejo se v drobne temno rdeče klaske, v skupinah po 2-8.",
+          "plodovi": "Iz ženskih socvetij se razvijejo oleseneli, rjavi, nepravi storžki, med njihovimi braktejami so do 3 mm dolgi, sploščeni krilati rjavi oreški.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "betula_pendula": {
+          "slo": "navadna breza",
+          "lat": "Betula pendula",
+          "ita": "betulla bianca",
+          "videz": "Navadna breza je listopadno drevo z redko, ozko stožčasto in v starosti širšo, večkrat nepravilno krošnjo. Drevo je do 30 m visoko in do 0,6 m debelo. Skorja je na deblu in večjih vejah belo obarvana. Spodnji del debla v teku let potemni in razpoka.",
+          "listi": "Listi navadne breze so dolgi 4-7 cm in široki 2-4 cm. So enostavni, rombasti in po robu dvakrat ostro nažagani. Tako kot pecelj, ki je dolg 3 cm, so listi večinoma goli. Mladi listi so nekoliko lepljivi.",
+          "cvetovi": "Cvetovi so moški in ženski, ženski so brez perianta. Moški cvetovi imajo neznaten periant, po trije rastejo v zalistju podpornega lista in tvorijo 3-6 cm dolga viseča klasasta socvetja.",
+          "plodovi": "Soplodja dozorijo nekje v mesecu juliju ali avgustu. Plodovi so precej lahki in do 2 mm veliki krilati oreški.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "berberis_vulgaris": {
+          "slo": "navadni češmin",
+          "lat": "Berberis vulgaris",
+          "ita": "crespino",
+          "videz": "Navadni češmin je listopaden, do 3 m visok pokončen grm. Skorja je na deblu sivorjava in gladka, les in notranja stran skorje pa sta intenzivno rumeni.",
+          "listi": "Značilnost češmina so trni, pravzaprav preobraženi listi, ki so največkrat trojnati in dolgi 1-2 cm. Listi rastejo v nekakšnih šopkih oziroma rozetah na kratkih poganjkih, so narobe jajčasti in podolgovati, 3-6 cm dolgi ter drobno, pogosto bodeče napiljeni, na vrhu zaobljeni. Na zgornji strani so temno zeleni in goli, spodaj pa svetlejši. Jeseni se listi rumeno ali rdeče obarvajo.",
+          "cvetovi": "Cvetovi so združeni v grozdasta socvetja, posamezen cvet je dvospolen in pet- ali šest števen. Barva cvetov je rumena, njihova značilnost je tudi ta, da so močno dišeči.",
+          "plodovi": "Plodovi so podolgovate, 10-12 mm dolge, živordeče jagode, ki vsebujejo eno do tri semena. Plodovi so užitni, a imajo kiselkast okus.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "castanea_sativa": {
+          "slo": "evropski pravi kostanj",
+          "lat": "Castanea sativa",
+          "ita": "castagno",
+          "videz": "Evropski pravi kostanj je do 35 m visoko in 3 m debelo drevo. Njegova krošnja je mogočna in široka, koreninski sistem je globok in močan. Skorja na deblu je v mladosti gladka, pozneje se v njej pojavijo izredno globoke, spiralno potekajoče vzdolžne razpoke.",
+          "listi": "Značilni so jajčasto suličasti listi, ki so 10-30 cm dolgi. Zgoraj so listi temno zeleni in gladki, spodaj pa svetlejši. Stranske žile so vtisnjene v listno ploskev in se končujejo z izrazito konico na listnem robu.",
+          "cvetovi": "Cvetovi obeh spolov rastejo na skupni, 10-30 cm dolgi pokončni osi. Moški so razporejeni v skupinah po 3 ali več in imajo 8-12 rumenobelih prašnikov. Ženski cvetovi so razporejeni posamezno ali v skupinah po največ trije skupaj v ovoju oz. kupoli, iz katere se pozneje razvije bodeča ježica.",
+          "plodovi": "Plod je kostanj skupaj z bodečo ježico, ki se odpre s štirimi loputami. V eni ježici lahko najdemo od enega, do celo tri kostanje. Plodovi dozorijo in odpadejo oktobra.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cornus_sanguinea": {
+          "slo": "rdeči dren",
+          "lat": "Cornus sanguinea",
+          "ita": "sanguinella",
+          "videz": "Rdeči dren je listopadna grmovnica, ki zraste do 4 m visoko. ",
+          "listi": "Listi so enostavni, eliptični in nasprotno nameščeni. Imajo 3-4 pare lokasto ukrivljenih stranskih žil. Zgornja stran lista ni bleščeča.",
+          "cvetovi": "Cvetovi so dvospolni, bele barve in neprijetno dišeči. po 20-50 so združeni v pakobulasta socvetja, široka 4-5 cm.",
+          "plodovi": "Plodovi so okrogli, v premeru merijo do 7 mm, so črni, sočni in vsebujejo okroglasto koščico.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "corylus_avellana": {
+          "slo": "navadna leska",
+          "lat": "Corylus avellana",
+          "ita": " nocciolo",
+          "videz": "Navadna leska je grm, ki zraste do 5 m visoko. Ima zelo razvejeno in gosto krošnjo. Skorja je gladka in sive barve, s številnimi belimi lenticelami.",
+          "listi": "Listi so enostavni, 7-10 cm dolgi in približno enako široki, po robu dvakrat ostro napiljeni.Pri vrhu so koničasti, na dnu pa srčaste oblike. Zgornja stran listov je temnejša od spodnje, kjer so izbočene žile, ki so poraščene z dlačicami.",
+          "cvetovi": "Navadna leska cveti od februarja do aprila. Moški cvetovi so mačice, ki se odprejo zgodaj spomladi. Ženski cvetovi so skriti v cvetnih brstih iz katerih izraščajo majhne rdeče brazde",
+          "plodovi": "Plodovi so oreški, ki jim pravimo lešniki. Dobimo jih v skupinah od 1 do 5 skupaj. Dolgi so do 2 cm in odpadejo komaj dozorijo.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "fagus_sylvatica": {
+          "slo": "navadna bukev",
+          "lat": "Fagus sylvatica",
+          "ita": "faggio",
+          "videz": "Navadna bukev je do 40 m visoko in do 1 (2) m debelo drevo s sivim, večinoma gladkim lubjem. Krošnja je vejnata in gosta.",
+          "listi": "Listi so zgoraj temno zeleni in bleščeči, spodaj svetlejši. So enostavni, eliptični ali podolgovato jajčasti, 6-10 cm dolgi, 3-7 cm široki in imajo valovit listni rob.",
+          "cvetovi": "Navadna bukev je enodomno, vetrocvetno drevo. Moški cvetovi so v skupinah po 20 združeni v okroglaste mačice, ki visijo na 2-5 cm dolgem peclju. Na nekoliko debelejšem peclju so v parih pritrjeni ženski cvetovi, ki so obdani z dlakavim ovojem.",
+          "plodovi": "Iz vsake plodnice se razvije do 1,5 cm dolg, trirob rjav orešek, ki mu pravimo žir. Po dva žira skupaj ležita v oleseneli skledici ali bukvici, ki je gosto poraščena z mehkimi, kaveljčastimi bodicami. Žir in bukvica skupaj predstavljata plod. Ko žir dozori, se skledica odpre s štirimi loputami.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "fraxinus_excelsior": {
+          "slo": "veliki jesen",
+          "lat": "Fraxinus excelsior",
+          "ita": "frassino maggiore",
+          "videz": "Veliki jesen je do 40 m visoko listopadno drevo s pravilno, široko in zračno krošnjo, močnimi in dolgimi vejami in ravnim deblom. Lubje je v mladosti gladko in sivo, pozneje pa potemni in mrežasto razpoka.",
+          "listi": "Listi so lihopernato sestavljeni iz 7-13 lističev, ki so suličasti in zašiljeni, 4-10 cm dolgi in 2-4 cm široki. Po robovih so fino nažagani, zobci so navznoter ukrivljeni in številčnejši kot stranske žile.",
+          "cvetovi": "Veliki jesen je enodomna, včasih tudi dvodomna vetrocvetna vrsta. Cvetovi so združeni v močno razvejene sestavljene grozde. Cvetovi so brez cvetnega odevala in zato tudi slabo opazni. Lahko so dvospolni ali enospolni. Na isti rastlini najdemo različne vrste cvetov.",
+          "plodovi": "Plodovi so podolgovati, rjavi krilati oreški, združeni v značilne goste šope. Seme leži na koncu krilca.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "laburnum_anagyroides": {
+          "slo": "navadni nagnoj",
+          "lat": "Laburnum anagyroides",
+          "ita": "maggiociondolo",
+          "videz": "Navadni nagnoj je listopadno drevo ali grm, ki zraste do 10 m visoko.V mladosti je skorja zelenkastorjava in gladka, z leti pa rahlo razpoka.",
+          "listi": "Listi so trojnati, s 3-5 cm dolgim pecljem. Lističi so eliptični do jajčasti, kratkopecljati.",
+          "cvetovi": "Cvetovi so rumeni in imajo metuljast venec. Združeni so v 10-30 cm dolga, viseča grozdasta socvetja.",
+          "plodovi": "Plodovi so 4-8 cm dolgi in 7-9 mm široki ploščati stroki, ki vsebujejo črna, bleščeča semena.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "picea_abies": {
+          "slo": "navadna smreka",
+          "lat": "Picea abies",
+          "ita": "abete rosso",
+          "videz": "Navadna smreka je do 50 m visoko iglasto drevo s stožčasto krošnjo in plitvim koreninskim sistemom. Veje Izraščajo v vretencih, zgornje so obrnjene navzgor, spodnje navzdol, vendar so na koncu spet usločene navzgor. Skorja na deblu je rdečkasta, sprva gladka, pozneje pa začne odstopati v obliki okroglastih ploščic.",
+          "listi": "Iglice so dolge 1-2,5 cm, ravne ali usločene, štirirobe, v prečnem prerezu rombaste, koničaste, malce bodeče, na obeh straneh temno zelene barve. Na poganjkih so razmeščene spiralno.",
+          "cvetovi": "Navadna smreka je enodomna, vetrocvetna rastlina. Moški cvetovi so združeni v do 2 cm dolga, storžasta socvetja, ki so sprva rdečkasta, pozneje pa rumenorjava. Ženska storžasta socvetja so rdeča ali zelena, pokončna in rastejo na koncu poganjkov v zgornji tretjini krošnje.",
+          "plodovi": "Po oploditvi se ženska socvetja razvijejo v storže, ki se med zorenjem povesijo in so sprva zelenkasti ali rdečkasti, nato rjavkasti. Storži so dolgi 10-15 cm in debeli 3-4 cm. Plodne luske so toge in trdne, na robu potegnjene v bolj ali manj izraziti jeziček. pod vsako plodno lusko sta po dve rjavi, do 4 mm dolgi krilati semeni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "pinus_mugo": {
+          "slo": "rušje",
+          "lat": "Pinus mugo",
+          "ita": "mugo",
+          "videz": "Rušje je nekaj metrov visoka grmovnica ali manjše drevo. Skorja je tanka, pepelnato sive ali rdečkaste barve in spominja na smrekovo, le da je temnejša.",
+          "listi": "Iglice rastejo v šopkih po dve. So 3-4 cm dolge, sabljasto ukrivljene, temno zelene, trde, močne, zašiljene in odporne proti zmrzali.",
+          "cvetovi": "Rušje je enodomna, izjemoma tudi dvodomna, vetrocvetna vrsta, ki se razmnožuje s semeni. Moški cvetovi so sestavljeni iz spiralasto nameščenih prašnikov in se v številnih skupinah razvijejo na dnu letošnjih poganjkov. Vijoličasti ali rdečkasti ženski cvetovi se v obliki storžkastih socvetij pojavijo na vrhu letošnjega poganjka.",
+          "plodovi": "Storži so sprva modrikasti, nato porjavijo. So jajčasti do valjasto jajčasti, dolgi le 2-7 cm in debeli 2,5-5 cm.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "pinus_nigra": {
+          "slo": "črni bor",
+          "lat": "Pinus nigra",
+          "ita": "pino nero",
+          "videz": "Črni bor je do 40 m visoko in 1,3 m debelo, zimzeleno iglasto drevo. Krošnja je sprva stožčasta, v starosti pa je dežnikaste oblike. Skorja je sivočrna (ime!), debela in močno razbrazdana.",
+          "listi": "Črni bor ima v šopku po dve temnozeleni, trdi, močni, zašiljeni in bodeči, ravni ali ukrivljeni, 8-16 cm dolgi iglici.",
+          "cvetovi": "Črni bor je enodomna, vetrocvetna vrsta, ki cveti maja in v začetku junija. Moški cvetovi so združeni v podolgovata in valjasta socvetja. Ženski cvetovi so združeni v drobna, rdeča ali rjava storžkasta socvetja.",
+          "plodovi": "Zreli storži so jajčasti, 4-8 cm dolgi, 2-4 cm debeli, rumenorjavi in bleščeči.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "pinus_sylvestris": {
+          "slo": "rdeči bor",
+          "lat": "Pinus sylvestris",
+          "ita": "pino silvestre",
+          "videz": "Rdeči bor je zimzeleno drevo, ki zraste do 40 m visoko. Rastlina je sive barve, ovita v rumenkasto rdeče lubje, ki se lušči in ima debele veje, gosto porasle z iglicami. ",
+          "listi": "Listi so igličasti, dolgi 4-8 cm. Sivo zelene iglice so precej mehke, spiralaste in zbrane v šope po dve; na drevesu se iglice zamenjajo vsaki dve leti.",
+          "cvetovi": "Rdeči bor pripada skupini enodomnih rastlin, ki cvetijo maja in junija. Moški cvetovi so podolgovate jajčaste oblike in rumene barve. Ženski cvetovi so zbrani v drobna, okrog 5 mm dolga, pokončna socvetja rdeče rjavkaste barve.",
+          "plodovi": "Soplodja so 3-7 cm dolgi storži. Pod vsako plodno lusko sta po dve semeni. Semena dozorijo jeseni in se razpršijo spomladi.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "rosa_canina": {
+          "slo": "navadni šipek",
+          "lat": "Rosa canina",
+          "ita": "rosa selvatica",
+          "videz": "Šipek je 1-3 m visok bodičasti grm, z močno razraslimi vejami. Poraščen je s sploščenimi, srpasto ukrivljenimi bodicami.",
+          "listi": "Listi so 8-12 cm dolgi, bleščeči in lihopernato sestavljeni iz 5-7 lističev. Na dnu listnega peclja sta 2 prilista, zrasla z listnim pecljem.",
+          "cvetovi": "Cvetovi so beli ali rožnati, 4-5 cm široki. Čašni listi se po cvetenju zavihajo navzdol.",
+          "plodovi": "Plodovi so sestavljeni iz rdečega, vrčasto odebeljenega cvetišča. Vsebujejo svilnato dlakave plodiče, oreške. So užitni in imajo veliko vitamina C. Uporabljamo jih za pripravo čajev in marmelad.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "sambucus_racemosa": {
+          "slo": "rdeči bezeg",
+          "lat": "Sambucus racemosa",
+          "ita": "sambuco rosso",
+          "videz": "Rdeči bezeg je do 3 m visok listopadni grm, ki bujno raste iz površinskih korenin. Mlada stebla so sprva zelenkaste barve, ki s časom porjavijo. Skorja je strupena.",
+          "listi": "Listi so lihopernato sestavljeni iz 5-7 suličastih in zašiljenih lističev. Dolgi so 10-25 cm.",
+          "cvetovi": "Cvetovi so združeni v jajčaste, do 6 cm dolge grozde rumenkasto zelene barve. Cvetijo od aprila do junija.",
+          "plodovi": "Plodovi so bleščeče in sočne rdeče jagode s strupenimi semeni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "sorbus_aria": {
+          "slo": "mokovec",
+          "lat": "Sorbus aria",
+          "ita": "farinaccio",
+          "videz": "Mokovec je do 15 m visoko drevo, z zelo razvejano krošnjo. Skorja je temno siva in ima številne lenticele. Sprva je gladka, pozneje plitvo razpoka.",
+          "listi": "Listi so enostavni, eliptični do okroglasti in po obliki zelo variabilni, 6-12 cm dolgi in 5-9 cm široki, po robu neenakomerno dvakrat nažagani. Zgoraj so temno zeleni in bleščeči, spodaj pa prekriti z belimi dlačicami.",
+          "cvetovi": "Cvetovi so beli, 5-števni, 1-1,5 cm široki in združeni v široka češuljasta socvetja. Čašni listi so gosto belo puhasti.",
+          "plodovi": "Jabolkasti plodovi so okroglasti do podolgovati, do 15 mm dolgi in do 10 mm debeli, mesnati, rdeči, včasih prekriti z drobnimi belimi pikami.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "sorbus_aucuparia": {
+          "slo": "jerebika",
+          "lat": "Sorbus aucuparia",
+          "ita": "sorbo degli uccellatori",
+          "videz": "Jerebika je do 15 m visoko listopadno drevo z nepravilno, ovalno ali kroglasto, krošnjo. Skorja je sprva srebrno siva in gladka, s časom vzolžno plitvo razpoka in postane sivo rjava. Mladi poganjki so gosto dlakavi in rjavosive barve.",
+          "listi": "Listi jerebike so premenjalno nameščeni ,10-12 cm dolgi in lihopernato sestavljeni iz 9-15 ozko eliptičnih lističev z nažaganim robom. Lističi so sprva dlakavi, pozneje goli in zgoraj temno, spodaj svetlo zeleni.",
+          "cvetovi": "Cvetovi so zbrani v 10-15 cm široke, gosto dlakave češulje; posamezni cvetovi so dvospolni, 5-števni, bele ali rumenkaste barve, z neprijetnim vonjem.",
+          "plodovi": "Plodovi so do 1 cm debeli, okrogli, jabolkasti, mesnati in rdeče barve. Dozorijo avgusta ali septembra.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "tilia_cordata": {
+          "slo": "lipovec",
+          "lat": "Tilia cordata",
+          "ita": "tiglio selvatico",
+          "videz": "Lipovec je do 30 m visoko listopadno drevo s široko krošnjo. Skorja je v prvih letih življenja gladka in zelenkasto rjava, pozneje potemni in vzdolžno razpoka.",
+          "listi": "Listi so premenjalno nameščeni, enostavni, pravilne srčaste oblike, 4-10 cm dolgi in enako široki. Po robu so drobno nažagani. V pazduhah žil imajo šopke rjastih dlačic. Pecelj je gol in 1,5-3 cm dolg.",
+          "cvetovi": "Dvospolni cvetovi so dišeči in rumenozelene barve. Cvet ima 5 čašnih in 5 venčnih listov, iz 5 plodnih listov zraslo plodnico in do 30 prašnikov. Po 5-11 cvetov je združenih v socvetje, ki je s skupnim pecljem pritrjeno ja rumen ovršni list (braktejo).",
+          "plodovi": "Plod je večsemenski, okroglasti, 5-7 mm debel orešek. Po površini je rahlo puhast in vsebuje 1-2 temno rjavi semeni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ulmus_glabra": {
+          "slo": "gorski brest",
+          "lat": "Ulmus glabra",
+          "ita": "olmo montano",
+          "videz": "Gorski brest je do 35 m visoko listopadno drevo z močnim deblom. Veje so povešene skoraj do tal in zbrane v večdelno krošnjo. Mladi poganjki so nekoliko dlakavi in posuti z lenticelami.",
+          "listi": "Listi gorskega bresta so eliptični, premenjalno ali dvoredno nameščeni, 8-17 cm dolgi, 4-10 cm široki, kratkopecljati, z dvakrat nažaganim robom. Poleg glavnega vrha se na listu (ne vedno!) pojavljajo 1-3 značilni stranski vrhovi. Dno listne ploskve je nekoliko nesimetrično.",
+          "cvetovi": "Cvetovi so dvospolni (včasih tudi enospolni), drobni, s spodaj zelenkastim in zgoraj rdečkastim cvetnim odevalom; rastejo v šopih ali posamezno. Vsak cvet ima 5-7 prašnikov škrlatne barve.",
+          "plodovi": "Plodovi so krilati oreški. Krilce je okroglo in ima gladek rob. Plodovii dozorijo in odpadejo že konec meseca maja.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "viburnum_opulus": {
+          "slo": "brogovita",
+          "lat": "Viburnum opulus",
+          "ita": "palla di neve",
+          "videz": "Brogovita je do 4 m visok listopaden grm z rdečkasto rjavo skorjo. Pozneje je skorja rumenorjava in posuta z lenticelami.",
+          "listi": "Listi so dlanasto krpati, s tremi krpami, do 10 cm dolgi. Po robu so grobo nepravilno nazobčani.",
+          "cvetovi": "Cvetovi so beli in združeni v do 10 cm široke pakobule. V zunanjem delu pakobula so sterilni cvetovi z večjim, do 2,5 cm širokim vencem, v sredini so fertilni cvetovi z drobnim in manj očitnim, do 5 mm širokim rumenkastobelim vencem.",
+          "plodovi": "Plod je okrogla, sočna in bleščeča koščičasta jagoda, debela do 10 mm. Vsebuje eno koščico.",
+          "viri": [],
+          "viri_slike": {}
+        }
+      }
+    },
+    "okolisko": {
+      "name": "Okoliško področje",
+      "plants": {
+        "acer_campestre": {
+          "slo": "maklen, poljski javor",
+          "lat": "Acer campestre",
+          "ita": "acero campestre",
+          "videz": "Je listopadno drevo visoko do 20 m in do 50 cm debelo. Poganjki so svetlo rjavi, tanki in goli, na njih se pogosto tvorijo plutasta rebra. Skorja na deblu je drobno mrežasto razpokana, sprva rjavkasta, pozneje rjava do temnorjava.",
+          "listi": "Listi so razmeroma majhni, 5-10 cm široki in 3-7 cm dolgi, dlanasto krpati ali dlanasto deljeni. Med 5 listnimi krpami so srednje 3 največje, vrh lista je top. Listi so sprva dlakavi, nato zgoraj goli in temnejši, spodaj svetlejši in goli ali fino dlakavi. Pecelj je rdečkast do 10 cm dolg.",
+          "cvetovi": "Maklen je žužkocvetna vrsta, ki cveti konec aprila ali maja hkrati z olistanjem. Cvetovi so majhni in rumenozeleni, po 10-20 združeni v rumenkastozelena češuljasta socvetja. Lahko so dvospolni, moški ali ženski.",
+          "plodovi": "Krilata plodiča rasteta pod kotom 180°, sta rdečkaste barve, kratko dlakava ali gola.",
+          "zanimivosti": "Olupljene in posušene maklenove poganjke so na podeželju nekoč tradicionalno uporabljali za špiljenje domačih klobas, običaj je še dandanes ohranjen. Zaradi obilnega cvetenja je maklen primeren za čebeljo pašo. Plodovi so pomemben vir hrane za nekatere vrste ptic.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "crataegus_laevigata": {
+          "slo": "navadni glog",
+          "lat": "Crataegus laevigata",
+          "ita": "biancospino selvatico",
+          "videz": "Je 12 m visoko drevo. Deblo lahko doseže premer 50 cm. Krošnja je široka, razraščena in nepravilne oblike. Skorja je pri mlajših drevesih gladka in siva, kasneje pa razpoka in postane temno rjava.",
+          "listi": "Listi so izmenjajoče nameščeni, dlanasto krpati do enostavni in lahko dosežejo dolžino 3-5 cm. Zgoraj imajo od 3 do 5 topih, po robu neenakomerno nažaganih krp. Na zgornji strani so bleščeči in živo zeleni, spodaj pa sivozeleni in včasih ob žilah rahlo dlakavi.",
+          "cvetovi": "Cvetovi so dvospolni, bele ali bledorožnate barve. Imajo do 25 prašnikov z živordečimi prašnicami in pestič z 2 ali 3 vratovi. Cvetijo maja in junija, pred enovratnim glogom.",
+          "plodovi": "Plodovi so okroglasti do jajčasti, živo rdeči in do 12 mm dolgi. Na vrhu so ostanki čašnih listov. Dozorijo septembra. Vsebujejo 2-3 trde koščice.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "crataegus_monogyna": {
+          "slo": "enovratni glog",
+          "lat": "Crataegus monogyna",
+          "ita": "biancospino",
+          "videz": "Je lahko do 6 m visok grm ali do 8 m visoko drevo. Ima razvejano krošnjo nepravilne oblike. Skorja je sivorjava, v razpokah temnejša. Lušči se v podolgovatih ploščicah. Na mladih poganjkih so do 1 cm dolgi trni.",
+          "listi": "Listi so razporejeni premenjalno. So dlanasto krpasti ali dlanasto deljeni in dolgi do 8 cm. Imajo 3-7 zašiljenih in na koncu napiljenih krp. Med prvim in drugim parom krp sta globoki zarezi, ki segata skoraj do sredine lista.",
+          "cvetovi": "Cvetovi so 8-5 mm široki, bele ali bledo rožnate barve in združeni v češuljasta socvetja. Cvetijo maja in junija, približno 2 tedna po navadnem glogu.",
+          "plodovi": "Plodovi so živo rdeči, okrogli ali jajčasti in dolgi do 1 cm. Vsebujejo eno samo koščico.",
+          "zanimivosti": "Enovratni glog uspeva po vsej Sloveniji do 1.500 m visoko, ker mu nizke temperature ne škodujejo.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cydonia_oblonga": {
+          "slo": "navadna kutina",
+          "lat": "Cydonia oblonga",
+          "ita": "cotogno",
+          "videz": "Navadna kutina je do 8 m visoko listopadno drevo ali grm s široko okroglasto krošnjo. S skorje se luščijo ploščati kosi lubja.",
+          "listi": "Listi so premenjalno nameščeni, enostavni, jajčasti do eliptični, 5-10 cm dolgi, 4-8 cm široki, celorobi. Zgoraj so gladki, spodaj pa dlakavi.",
+          "cvetovi": "Žužkocvetna vrsta, ki cveti pozno, šele maja in junija. Dvospolni cvetovi so večinoma posamezni, 4-5 cm široki. Venčnih listov je 5 in so rožnati ali beli. Tudi čašnih listov je 5. Ti so nazaj navihani in ostanejo na plodu do zrelosti.",
+          "plodovi": "Plod, ki ga imenujemo kar kutina, je po obliki podoben jabolku ali hruški, 4-12 cm dolg, rumen in dlakav. Meso je trdo in polno kamenih celic. Kuhan plod postane okusen, aromatičen in užiten.",
+          "zanimivosti": "Plod navadne kutine so gojili v Babilonu že pred 4000 leti, dobro so ga poznali tudi stari Rimljani. Kot simbol ljubezni in sreče je bil posvečen Veneri.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "elaeagnus_angustifolia": {
+          "slo": "ozkolistna oljčica",
+          "lat": "Elaeagnus angustifolia",
+          "ita": "olivo di Boemia",
+          "videz": "Ozkolistna oljčica je trnat listopaden grm ali drevo, ki zraste do 10 m visoko. Prihaja iz zahodne in srednje Azije. Sadimo ga v okrasne namene, njegov les pa lahko uporabljamo v mizarstvu in za izdelavo glasbil.",
+          "listi": "Listi so enostavni, ozko suličasti, dolgi 5-8 cm in široki 1-2 cm. So celorobi, zgoraj sivkasto zeleni, spodaj pa luskasto srebrno beli.",
+          "cvetovi": "Cvetovi so dvospolni, kratkopecljati, močno dišeči po usnju in medonosni, v skupinah do 3 rastejo v pazduhah listov. Venec ni razvit, čašni listi pa so zrasli v 4-zob, zvonast, znotraj rumen, zunaj srebrno bel perigon. Iz cvetov pridobivajo eterično olje za izdelavo parfumov.",
+          "plodovi": "Plod je sladek in užiten, koščičast, rumen, prekrit s srebrnimi luskami in zraste do 1,5 cm.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "fraxinus_angustifolia": {
+          "slo": " poljski jesen",
+          "lat": "Fraxinus angustifolia",
+          "ita": "frassino ossifillo",
+          "videz": "Poljski jesen ali ostroplodni jesen je do 25 m visoko in do 1m debelo listopadno drevo s podolgovato ovalno, zaokroženo in močno razvejano krošnjo, ki je gostejša kot pri velikem jesenu. Deblo je ravno in polnolesno, skorja sprva gladka in olivno zelena, pri starejših drevesih postane siva in drobno razpoka v majhne ploščice.",
+          "listi": "Listi so razporejeni navzkrižno ali v vretencih po 3. So lihopernato sestavljeni in 8-20 cm dolgi. Lističi so ozko suličasti, 4-10 cm dolgi, dolgo zašiljeni in po robu grobo nažagani.",
+          "cvetovi": "Vetrocvetna vrsta, ki cveti konec marca ali aprila pred olistanjem. Cvetovi so združeni v rahle obstranske grozde. So dvospolni in brez cvetnega odevala, imajo 1 pestič in 2 velika rdečkasta prašnika.",
+          "plodovi": "Plodovi so podolgovati , 2-6 cm dolgi krilati oreški. Krilce je zelo variabilno, lahko je zaobljeno, zašiljeno ali zelo široko. Podolgovato seme sega do več kot polovice krilca.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "hippophae_rhamnoides": {
+          "slo": "navadni rakitovec",
+          "lat": "Hippophae rhamnoides",
+          "ita": "olivello spinoso",
+          "videz": "Do 6 m visok grm ali drevo, ima nepravilno in močno razvejano krošnjo.",
+          "listi": "Listi so enostavni, črtalasti do ozko suličasti, 5-7 cm dolgi, 0,3-1 cm široki, celorobi, sivkasti in drobno dlakavi, zgoraj luskasti.",
+          "cvetovi": "Cvetovi so v kratkih grozdih, so zeleno rjavi, brez venčnih listov in enospolni. Sedeči moški cvetovi imajo 2 čašna lista in 4 prašnike, kratkopecljati ženski cvetovi imajo čašo z 2 rogljema.",
+          "plodovi": "Koščičasti plodovi so jajčasti do okroglasti, 7-8 mm dolgi, oranžnordeči, lepo dišeči in sočni, na vrhu imajo ostanke vratu. Dvodomna vrsta cveti marca ali aprila pred olistanjem.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "malus_sylvestris": {
+          "slo": "lesnika",
+          "lat": "Malus sylvestris",
+          "ita": "melo selvatico",
+          "videz": "Lesnika ali divja jablana je do 10 m visoko listopadno drevo. Ima nepravilno, redko, na prostem večjo in okroglasto krošnjo. Skorja je razmeroma tanka, siva in dolgo ostane gladka, pozneje se z nje luščijo tanke ploščice.",
+          "listi": "Listi so premenjalno nameščeni in enostavni, široko jajčasti, okroglasti ali eliptični. Na vrhu so nekoliko zašiljeni, 4-10 cm dolgi, do 5 cm široki in po robu nažagani. Pecelj je dolg 2-5 cm.",
+          "cvetovi": "Cvetovi so dvospolni, beli, po zunanji strani rahlo rožnati, v premeru merijo 3-4 cm. Venčnih in čašnih listov je po 5, prašnikov je 20-50. Prašnice so rumene.",
+          "plodovi": "Pečkati plod je rumenkast, na sončni strani včasih rdečkast. Ima kislo in trpko mesnato plast, ki je nastala iz cvetišča in 5 predalov. Vsebuje 10 drobnih rjavih semen, v vsakem predalu po 2.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "mespilus_germanica": {
+          "slo": "navadna nešplja",
+          "lat": "Mespilus germanica",
+          "ita": "nespolo comune",
+          "videz": "Navadna nešplja je do 6 m visoko in do 0,5 m debelo listopadno drevo s široko okroglasto krošnjo in večinoma krivim deblom. Skorja na deblu je sprva sivorjava in gladka, pozneje razpoka in iz nje se luščijo dolge pravokotne ploščice lubja.",
+          "listi": "Premenjalno nameščeni listi se enostavni, podolgovato eliptični do narobe jajčasti, 6-12 cm dolgi in 2-4 cm široki. Zgoraj temnozeleni in goli, spodaj svetlejši in gosto puhasti.",
+          "cvetovi": "Navadna nešplja cveti maja in na začetku junija, po olistanju, pogosta je samooprašitev. Cvetovi so dvospolni, beli, 4-5 cm široki. Čašni listi so dolgi in ozki in ostanejo na plodu.",
+          "plodovi": "Jabolkast plod je bolj ali manj okrogel, 3-4 cm debel, finorjavkasto dlakav in zelo trd. Užiten postane šele po prvi slani.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "olea_europaea_sativa": {
+          "slo": "navadna oljka",
+          "lat": "Olea europaea sativa",
+          "ita": "olivo",
+          "videz": "Navadna oljka je do 15 (20) m visoko in do 1 m debelo vednozeleno drevo s široko, zračno in razvejeno krošnjo ter krivim in zgubanim deblom. Skorja na deblu je srebrno siva in dolgo ostane gladka. Poganjki so tanki, okrogli ali robati ter fino srebrno luskasti. Koreninski sistem je dobro razvit predvsem v širino.",
+          "listi": "Navzkrižno razporejeni listi so vednozeleni, enostavni, podolgovato suličasti, 4-8 cm dolgi in 0,9-1,8 cm široki, zašiljeni, trdi in usnjati, zgoraj motno zeleni, spodaj zaradi gostih dlačic značilno srebrno sivi. Listni rob je gladek in nekoliko spodvihan.",
+          "cvetovi": "Cvetovi so dvospolni ali enospolni , drobni, dišeči, beli in 4-števni. Združeni so v grozdasta socvetja.",
+          "plodovi": "Plod je koščičast, okroglaste ali ovalne oblike, 1-3 cm dolg, sprva zelen, pozneje rdečkast, popolnoma zrel pa temno moder, skoraj črn in bleščeč.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "populus_alba": {
+          "slo": "beli topol",
+          "lat": "Populus alba",
+          "ita": "pioppo bianco",
+          "videz": "Beli topol je do 30 m visoko, do 2 m debelo in do 300 let staro listopadno drevo s široko, pogosto nesimetrično krošnjo. Skorja na mlajših deblih ali višje v krošnji je sivobela do zelenkasta in posuta z značilnimi rombastimi rdečkastimi lenticelami.",
+          "listi": "Listi so jajčasti ali elipsasti in po robu grobo nepravilno valoviti. Mladi listi so belo puhasti. Starejši listi so na zgornji strani temno zelene barve, goli, usnjati in bleščeči, na spodnji pa puhasti in sivi. Včasih ogoli tudi spodnja stran listov.",
+          "cvetovi": "Cvetovi so enospolni, moški imajo 7-10 škrlatno rdečih prašnikov in so združeni v debele, 3-7 cm dolge viseče mačice. Ženske mačice so do 10 cm dolge, tanjše in zelenkaste.",
+          "plodovi": "Plodovi so svetlo rjave, pecljate semenske glavice. Maja, ko dozorijo, razpadejo na dva dela, v njih so drobna puhasta semena.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "prunus_avium": {
+          "slo": "divja češnja",
+          "lat": "Prunus avium",
+          "ita": "ciliegio selvatico",
+          "videz": "Divja češnja zraste do 25 m visoko in običajno ne preseže 0,8 m v premeru. Redko preseže starost 100 let. Ko doseže starost okoli 60 let, preneha rasti v višino in les začne počasi trohneti. Deblo poteka pogosto skoraj do vrha. Skorja divje češnje je rjavosiva ali svetlosiva in tanka. Pri starejših drevesih se lubje lušči v trakovih, skorja pa razpoka. Koreninski sistem se prilagodi globini gozdnih tal.",
+          "listi": "Listi so premenjalno razporejeni, enostavni, podolgovato jajčasti ali eliptični, po robu nepravilno nažagani, spodaj so najprej dlakavi, pozneje goli, dlačice se ohranijo samo ob žilah. Dosežejo dolžino do 12 cm. Na vrhu peclja sta dve jasno vidni rdeči žlezi.",
+          "cvetovi": "Divja češnja cveti aprila in maja ter se istočasno olista. Cvetovi so bele barve in po 2-3 združeni v sedeče kobule.",
+          "plodovi": "Koščičasti plodovi, češnje, dozorijo sredi poletja in so manjši kot pri domači češnji.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "prunus_cerasifera": {
+          "slo": "mirabolana",
+          "lat": "Prunus cerasifera",
+          "ita": "mirabolano",
+          "videz": "Manjše drevo z rahlo trnatimi poganjki.",
+          "listi": "Listi so enostavni, na pecljih imajo žleze.",
+          "cvetovi": "Cvetovi so bele do rožnate barve, z mnogimi prašniki. Večinoma ne rastejo v socvetjih, ampak posamezno.",
+          "plodovi": "Koščičasti plodovi so do 3 cm debeli, okrogli, rdeči ali rumeni in poprhnjeni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "prunus_cerasifera_shiro": {
+          "slo": "rumeni ringlo, renkloda shiro",
+          "lat": "Prunus cerasifera var. Shiro",
+          "ita": "susino shiro, goccia d'oro",
+          "videz": "Je majhno, trnato sadno drevo, ki zraste do 7 m višine.",
+          "listi": "Listi so eliptični, z ošiljeno konico in nazobčanim robom, dosežejo 6 cm dolžine in 4 cm širine. Na pecljih imajo žleze.",
+          "cvetovi": "Običajno rastejo posamično in so svetlo rožnate barve. Veliki so približno 2 cm.",
+          "plodovi": "Plodovi so okrogli, sladki in užitni, do 3 cm debeli, rumeni in poprhnjeni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "prunus_padus": {
+          "slo": "čremsa",
+          "lat": "Prunus padus",
+          "ita": "pado",
+          "videz": "Čremsa je 17 m visoko listopadno drevo z ozko stožčasto krošnjo, ki pri starejših drevesih postane okroglasta. Skorja je neprijetno dišeča in črnorjava.",
+          "listi": "Listna ploskev široko suličastih listov je dolga 6-12 cm, široka pa 3-6 cm, po robu ostro nažagana. Pecelj ima pri vrhu dve zelenorjavi žlezi.",
+          "cvetovi": "Petštevni cvetovi so beli in močno dišeči, v premeru merijo 10-15 mm. Združeni so v mnogocvetna, viseča, 10-15 cm dolga grozdasta socvetja.",
+          "plodovi": "Koščičasti plodovi so kroglasti in okoli 7 mm debeli. So bleščeče črni in grenkega okusa.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "prunus_spinosa": {
+          "slo": "črni trn",
+          "lat": "Prunus spinosa",
+          "ita": "prugnolo",
+          "videz": "Črni trn je 4 m visok listopadni grm ali manjše, do 5 m veliko drevo. Ima gosto in močno razvejeno krošnjo. Kratki poganjki so pogosto preobraženi v trne.",
+          "listi": "Listi si enostavni, podolgovati in jajčasti ali eliptični. Robovi listov so napiljeni.",
+          "cvetovi": "Cvetovi so snežno beli, rastejo na kratkih pecljih posamično ali po 2-3 skupaj. Imajo 5 venčnih listov. Črni trn cveti od marca do maja.",
+          "plodovi": "Na začetku jeseni se razvijejo do 1,5 cm debeli modri koščičasti plodovi – trnulje. Trnulje so užitne in se uporabljajo v številne namene. Če jih naberemo po prvi slani, nimajo kislo-trpkega okusa. Trnulje lahko vlagamo v kis ali predelamo v marmelado, sok in alkoholne pijače.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "pyrus_pyraster": {
+          "slo": "drobnica",
+          "lat": "Pyrus pyraster",
+          "ita": "pero selvatico",
+          "videz": "Do 20 metrov visoko listopadno drevo, ki ima stožčasto krošnjo in močno razvit, globok in srčast koreninski sistem. Skorja pri starejših drevesih vzdolžno in prečno razpoka v drobne ploščice. Poganjki so dveh vrst: kratki se končujejo z brstom, dolgi pa s trnom.",
+          "listi": "Listi so premenjalno nameščeni, enostavni, široko jajčasti do okrogli, na vrhu kratko zašiljeni, 2-8 cm dolgi, sprva puhasti in pozneje goli, zgoraj temno zeleni in bleščeči, spodaj svetlo zeleni. Listni pecelj je v prerezu okrogel in dolg kakor listna ploskev. Jeseni porumenijo, včasih pordečijo, a kmalu počrnijo in odpadejo.",
+          "cvetovi": "Dvospolni cvetovi so beli, do 3 cm široki, 5-števni in imajo rdeče prašnice, po 3-9 so združeni v češuljah.",
+          "plodovi": "Oktobra dozorijo 2-3.5 cm veliki kroglasti plodovi z okrog 5 cm dolgim pecljem. Birni plodovi tipa jabolko (hruškice)vsebujejo do 10 semen, ki vedno ležijo v paru.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "rhamnus_cathartica": {
+          "slo": "čistilna kozja češnja",
+          "lat": "Rhamnus cathartica",
+          "ita": "spino cervino",
+          "videz": "Do 3 m visok listopadni grm ali do 8 m visoko drevo. Krošnja je razvejana in nepravilna, poganjki se večkrat preobrazijo v trne. Skorja na mladih poganjkih je siva, bleščeča in gladka, pozneje temno rjava. Brsti so podolgovati in zašiljeni, nameščeni navzkrižno in prilegli k poganjku; so značilne rjavočrne barve. Koreninski sistem je globok.",
+          "listi": "Listi so enostavni, eliptični do okroglasti, topi ali priostreni, 3-6 cm dolgi, po robu nazobčani. List ima 3-4 pare lokasto upognjenih žil.",
+          "cvetovi": "Cvetovi so dvospolni ali enospolni, 4-5 mm široki, štirištevni, imajo tudi venčne liste, so zelenkasti, drobni in rastejo v šopih po 2-8. Vrsta je enodomna in žužkocvetna, cveti maja in junija.",
+          "plodovi": "Koščičast plod je strupen, okroglast, 6-8 mm debel, črn in bleščeč.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "quercus_cerris": {
+          "slo": "cer",
+          "lat": "Quercus cerris",
+          "ita": "cerro",
+          "videz": "Je do 35 m visoko in več kot 1 meter debelo listopadno drevo. Je vrsta s precej ravnim deblom, široko, redko krošnjo in dobro razvitim, globokim koreninskim sistemom z močno glavno korenino. Poganjki so nekoliko robati in rahlo puhasti, brsti do 2 cm dolgi, dlakavi in obdani s številnimi dolgimi jezičastimi prilisti, po katerih je prepoznaven. Skorja na deblu je zelo debela in vzdolžno globoko razbrazdana, med razpokami značilno oranžna.",
+          "listi": "Listi so variabilni, premenjalno nameščeni, pernato krpati, na vsaki strani imajo 4-9 neenakih priostrenih krp, so 5-15 cm dolgi in do 9 cm široki, zgoraj temno zeleni, bleščeči in hrapavi, spodaj svetlejši in včasih dlakavi.",
+          "cvetovi": "Moški cvetovi so sestavljeni iz 6-8 lističev enojnega cvetnega odevala in 6-10 prašnikov. Združeni so v viseče mačice. Ženski cvetovi so sestavljeni iz 6 lističev cvetnega odevala in tridelne plodnice s 6 semenskimi zasnovami.Posamezno ali po nekaj skupaj rastejo v kratkih klasih.",
+          "plodovi": "Posebnost je dvoletno zorenje plodov. V prvem letu zraste želod do velikosti graha, dozori pa šele septembra ali oktobra naslednje leto. Dolg je 2-4 in debel do 2 cm, najbolj pa je prepoznaven po nitastih, do 1 cm dolgih kaveljčasto zavitih in zašiljenih izrastkih na skledici. Zrel je temno rjave barve.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "sorbus_domestica": {
+          "slo": "skorš",
+          "lat": "Sorbus domestica",
+          "ita": "sorbo domestico",
+          "videz": "Je do 20 m visoko drevo. Skorja skorša je črno rjava in razpokana v drobne ploščice. Koreninski sistem je močen, navadno je razvita tudi globoka glavna korenina. Brsti so goli, lepljivi in rumenozeleni, 8-12 mm dolgi in 4-6 mm debeli.",
+          "listi": "Listi so podobni jerebikovim, dolgi so 15-20 cm in lihopernato sestavljeni iz 13-21 podolgovato eliptičnih, 3-5 cm dolgih in 1,5-2 cm širokih lističev z nažaganim robom. Zgoraj so goli, spodaj sprva puhasti, pozneje goli.",
+          "cvetovi": "Cvetovi so belkasto rumeni in združeni v 6-10 cm široke, gosto dlakave češulje.",
+          "plodovi": "Plodovi so okroglasti ali hruškasti, mesnati, pecljati in 2-4 cm debeli. Sprva so zelenkasti, nato rdečkasti ali rumenorjavi.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "sorbus_torminalis": {
+          "slo": "brek",
+          "lat": "Sorbus torminalis",
+          "ita": "ciavardello",
+          "videz": "Do 25 m visoko drevo ima ravno deblo in gosto, okroglasto krošnjo. Skorja je siva, bleščeča in gladka, pozneje plitvo razpoka, z nje se luščijo tanke plasti lubja. Koreninski sistem je močno razvit. Poganjki so rumenkasto- ali rdečkastorjavi, gladki in bleščeči in posuti z drobnimi belkastimi lenticelami, brsti do 8 mm veliki, jajčasti, zeleni do rjavi, bleščeči, nekoliko lepljivi.",
+          "listi": "Listi so enostavni ali nekoliko krpati, imajo 3-5 parov priostrenih trikotnih krp, dolgi so 6-12 cm, široki pa 5-10 cm. Zgoraj so bleščeči, spodaj pogosto dlakavi, včasih goli in svetlejši.",
+          "cvetovi": "Cvetovi so združeni v 10-12 cm širokih, gosto puhastih in belih češuljastih socvetjih.",
+          "plodovi": "Plodovi so ovalni, do 15 mm veliki, rjavi in posuti z belimi pikami. Sprva so trdi, ko jih omehča slana, postanejo užitni in po okusu podobni hruškam.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ulmus_campestris": {
+          "slo": "poljski brest",
+          "lat": "Ulmus campestris",
+          "ita": "olmo campestre",
+          "videz": "Poljski brest zraste do 30 metrov visoko in doseže premer do 200 cm. Deblo je ravno, krošnja je široka in gosta. Skorja je rjave ali temno rjave barve in vzdolžno globoko razpokana. Na 2 do 5 let starih poganjkih se pojavijo plutasti izrastki. Koreninski sistem tvori glavna korenina, iz katere se razvijejo močne stranske korenine. Korenine dosežejo globino do 1,6 m.",
+          "listi": "Listi so do 10 cm dolgi in do 5 cm široki, jajčaste ali eliptične oblike. Ob peclju je listna ploskev močno asimetrična. Listni rob je dvojno nažagan.",
+          "cvetovi": "Drevo cveti pred olistanjem, od marca do aprila. Cvetovi so rjavo-rdeče barve, nevpadljivi, kratkopecljati, v šopih po 15-30.",
+          "plodovi": "Plodovi so okrogli in ploščati rjavi krilati oreščki, ki dozorijo maja in junija. Premer ploda je običajno 1,5 cm.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ulmus_pumila": {
+          "slo": "pritlikavi brest",
+          "lat": "Ulmus pumila",
+          "ita": "olmo siberiano",
+          "videz": "Ponavadi je srednje veliko drevo, ki pa lahko zraste do 20 m višine. Deblo ne presega 80 cm premera.",
+          "listi": "Listi so enostavni, po robu nazobčani, 8-10 cm dolgi. Ko so še manjši, so svetlo zelene barve, ko pa dosežejo 8 cm postanejo temnejši. Dno listne ploskve je rahlo nesimetrično.",
+          "cvetovi": "Brest cveti spomladi. Cvetovi so dvospolni, do 3 mm veliki, imajo rjavkasto-rdeče prašnike in zelen pestič z dvema vratovoma.",
+          "plodovi": "Plodovi so majhne samare rjave barve, okrogle do redko ovalne ali eliptične oblike. Semena se ponavadi nahajajo točno v centru samare, možno je pa, da so rahlo premaknjena iz centra.",
+          "viri": [],
+          "viri_slike": {}
+        }
+      }
+    },
+    "park_cankar": {
+      "name": "Park cankar",
+      "plants": {
+        "acer_negundo": {
+          "slo": "ameriški javor",
+          "lat": "Acer negundo",
+          "ita": "negrundo",
+          "videz": "Ameriški javor je listopadno drevo, debelo do 1,2 m. Zraste do 20 m višine. Njegova krošnja je okroglasta, redka ter široka, z dolgimi, štrlečimi vejami. Deblo je sivkaste ali rjavkaste barve. Dlje časa ostane gladko, pri visoki starosti pa razpoka. Koreninski sistem je zelo razvit, a plitev.",
+          "listi": "Listi so navzkrižno nameščeni, dolgi 15-37 cm in lihopernato sestavljeni, kar je posebnost med javorji. Listov v šopu je najpogosteje 5, redkeje se pa najde tudi kombinacija 3 ali 7. Ti so dolgi 5-13 cm, ter široki 4-10 cm. Imajo jajčasto obliko, vendar so zašiljeni in po robu dvakrat nažagani.",
+          "plodovi": "Cvetovi rastejo v grozdastih socvetjih in so enospolni. Moški cvetovi visijo na rumenih pecljih, dolgih do 3 cm. Vsak posamezen moški cvet ima 4-6 prašnikov z rdečimi prašnicami. Ženski cvetovi imajo dvodelno brazdo in dlakavo plodnico.",
+          "cvetovi": "Plodovi so sestavljeni iz dveh zelenkastih krilc, dolgih 2,5-5 cm, ozkih in navznoter ukrivljenih.",
+          "zanimivosti": "Ameriški javor je dvodomna in vetrocvetna vrsta, kar za javorje ni značilno.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "acer_palmatum_bloodgood": {
+          "slo": "rdečelisti pahljačasti javor",
+          "lat": "Acer palmatum cv. bloodgood",
+          "ita": "acero giapponese",
+          "videz": "Rdečelistni pahljačasti javor je listopadno drevo, visoko do 8 m. Njegova krošnja je zelo razvejana, gosta ter okroglasta. Pogosto raste tudi kot grm. Barva debla je rjava.",
+          "listi": "Listi so navzkrižno nameščeni ter dlanasto deljeni. V obrisu so okroglasti, široki 6-10 cm. Največkrat je listnih krp 5 ali 7, le redko 9. Listne krpe so zašiljene in jajčaste. Po robu so drobno in ostro dvojno nažagane. Zareze med listnimi krpami so globoke, večkrat segajo skoraj do peclja. Zgornja plast listov je temno zelene ali rdeče barve. Spodnja je svetlejša in ob peclju dlakava.",
+          "cvetovi": "Cvetovi so škrlatno rdeče barve, združeni v drobne češulje. Posamezni cvet je velik 6-8 mm. Sestavljen je iz rdečih in belih listov ter gole plodnice.",
+          "plodovi": "Plodovi so sestavljeni iz dveh golih in rahlo zakrivljenih plodičev, dolgih do 2 cm. Kot, ki ga krilci oklepata, je top ali iztegnjen.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "acer_platanoides_faassens_black": {
+          "slo": "fassens_black (rabi pravo ime)",
+          "lat": "popraviiiiiiiiiiiiiiiiiiiiiiiiiii",
+          "ita": "",
+          "videz": "",
+          "listi": "",
+          "cvetovi": "",
+          "plodovi": "",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "acer_saccharinum": {
+          "slo": "srebrni javor",
+          "lat": "Acer saccharinum",
+          "ita": "acero saccarino",
+          "videz": "Srebrni javor je listopadno drevo, ki zraste do 40 m visoko. Ima svetlo, podolgovato in visoko zaobljeno krošnjo. Skorja je sivkastorjava in dolgo ostane gladka. Veje so na koncu povešene.",
+          "listi": "Listi so navzkrižno razporejeni in dlanasto deljeni. Dolgi so 6-11 cm, široki 9-10 cm in imajo 8-12 cm dolg pecelj, ki je pogosto rdečkaste barve. Listnih krp je 5, med katerimi sta spodnji dve manjši. Zgoraj so temno zeleni, spodaj pa srebrnosivi. Listne žile izstopajo.",
+          "cvetovi": "Cvetovi so v gostih drobnih češuljah. So rdeče ali zelenkastorumene barve. Nimajo venčnih listov in so večinoma enospolni, le redko dvospolni. Moški cvetovi imajo 6-8 prašnikov.",
+          "plodovi": "Plodovi so sestavljeni iz dveh krilati plodičev. Krilci sta srpasto ukrivljeni in dolgi 3,5-6 cm. Plodovi dozorijo maja ali junija in visijo na peclju, ki je dolg 3-5 cm.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "alnus_cordata": {
+          "slo": "srčastolistna jelša",
+          "lat": "Alnus cordata",
+          "ita": "ontano napoletano",
+          "videz": "Srčastolistna jelša je do 15 m visoko listopadno drevo.",
+          "listi": "Listi so dolgi 4-10 cm. So okrogli ali jajčasti, na dnu listne ploskve srčasti, po čemer ima drevo ime. Na zgornji ploskvi so bleščeči in usnjati. Ob vznožju žil se nahajajo šopki oranžnih dlačic.",
+          "cvetovi": "Cvetovi so enospolni in združeni v ženske in moške mačice.",
+          "plodovi": "Ženski a socvetja po oploditvi olesenijo in tvorijo drobnim storžkom podobna soplodja, dolga do 3 cm.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "amelanchier_ovalis_canadensis": {
+          "slo": "kanadska šmarna hrušica",
+          "lat": "Amelanchier ovalis var. canadensis",
+          "ita": "pero corvino canadese",
+          "videz": "Kanadska šmarna hrušica je 8 m visok grm ali manjše listopadno drevo.",
+          "listi": "Listi so zašiljeni in imajo 10 ali več parov stranskih žil.",
+          "cvetovi": "Cvetovi so beli in združeni v pokončna grozdasta socvetja.",
+          "plodovi": "Plodovi so škrlatno črni z modrimi odtenki. So užitni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cedrus_atlantica_glauca": {
+          "slo": "siva atlaška cedra",
+          "lat": "Cedrus atlantica var. glauca",
+          "ita": "cedro dell’Atlante var. glauca",
+          "videz": "Siva atlaška cedra je vednozeleno drevo, ki zraste do 40 m visoko. Njena krošnja je svetla in redka. S starostjo postane krošnja dežnikasta. Vršni poganjek je pokončen ali le malo nagnjen. Veje so precej kratke in pod ostrim kotom usmerjene navzgor. Lubje je sprva gladko, sčasoma pa razpoka.",
+          "listi": "Iglice so dolge 15-25 mm in so med cedrami najkrajše. So sivozelene barve in zašiljene. Menjajo se na približno 5 let. Na dolgih poganjkih rastejo posamezno, na kratkih pa v rozetah po 10-30.",
+          "cvetovi": "Cvetovi se delijo na moške in ženske in so združeni v socvetja. Moška socvetja so pokončna, valjasta, dolga do 5 cm in rumenkasta, le včasih rožnata. Ženska storžasta socvetja so manjša, dolga 2–2,5 cm, zelenkasta in težko opazna.",
+          "plodovi": "Storži dozorijo zgodaj jeseni. Zrasejo 5-7 cm v dolžino in do 4 cm v širino. So jajčaste oblike, rjavi in smolnati. Plodne luske so široke do 3,5 cm in na spodnji strani gosto puhaste.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cedrus_deodara": {
+          "slo": "himalajska cedra",
+          "lat": "Cedrus deodara",
+          "ita": "cedro deodara",
+          "videz": "Himalajska cedra je vednozeleno iglasto drevo, ki zraste do 50 m v višino in do 3 m v širino. Pri mlajših drevesih je krošnja valjaste oblike, s staranjem pa prehaja v stožčasto obliko s povešenim vrhom. Veje se iz debla izraščajo vodoravno, njihovi konci pa so prav tako povešeni. Skorja je sprva svetlejša in gladka, s starostjo pa razpoka in potemni.",
+          "listi": "Iglice so dolge 3-5 cm in so med cedrami najdaljše. So zelene do zelenomodre barve, tanke, zašiljene in precej mehke. Na drevesu ostanejo za dve ali tri leta.",
+          "cvetovi": "Cvetovi so pokončni in združeni v moška in ženska socvetja. Moška socvetja so valjasta, dolga 4-7 cm in rumenkasta ter sestavljena iz mnogih prašnikov. Ženska socvetja so krajša, zelena in slabo opazna.",
+          "plodovi": "Plodovi so rdečerjavi, ovalni, na vrhu zaobljeni storži, ki zrastejo do 10 cm v višino in do 6 cm v širino. Med zorenjem so modrikasti. Storž sestavljajo gole in na gosto poraščene plodne luske s po dvema trikotnima krilatima semenoma. Dozorel storž nikoli ne odpade, vendar razpade na drevesu v začetku zime.",
+          "zanimivosti": "Deodara v latinskem imenu pomeni drevo bogov. Ta vzdevek je dobila zaradi pogostega pojavljanja v hindujski mitologiji, zaradi njene višine, pa tudi zaradi kakovosti lesa.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cedrus_libani": {
+          "slo": "libanonska cedra",
+          "lat": "Cedrus libani",
+          "ita": "cedro del Libano",
+          "videz": "Libanonska cedra je vednozeleno drevo, visoko do 40 m in debelo do 3 m. Njeno deblo je debelo in močno, temnosivo, razpokano in pogosto razraslo v več vrhov. Njena mogočna krošnja je pri starih drevesih široka, gosta in razvita v značilnih vodoravnih plasteh. Veje so dolge, debele in večinoma vodoravne, vrh drevesa pa je nekoliko nagnjen.",
+          "listi": "Iglice so dolge 15-35 mm, zašiljene, razmeroma močne in temno zelene. Na kratkih poganjkih so v šopkih po 10-20.",
+          "cvetovi": "Cvetovi so združeni v moška in ženska socvetja. Moška socvetja so valjasta, dolga do 5 cm in rumena. Ženska storžasta socvetja so podolgovato jajčasta, modrorumena in komaj opazna, velika do 8 mm.",
+          "plodovi": "Plodovi so sodčkasti storži, dolgi 7-10 cm in široki 4-6 cm. So pokončni, zgoraj zaokroženi ali ravni. Plodne luske so rjave, do 5 cm široke in po hrbtni strani dlakave. Storži ne odpadejo, pač pa razpadejo na drevesu.",
+          "zanimivosti": "V Libanonu je cedra pomemben simbol. Najde se jo tudi na državni zastavi.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cornus_florida_rubra": {
+          "slo": "floridski cvetni dren",
+          "lat": "Cornus florida var. rubra",
+          "ita": "corniolo da fiore",
+          "videz": "Floridski cvetni dren je 6-12 m visoko listopadno drevo ali grm. Ima kratko deblo z rdečkasto skorjo, ki tvori štirikotne, temne luske. Krošnja je široka in ima dolge, vodoravne veje. Koreninski sistem je plitev.",
+          "listi": "Listi so rdečkastorjavi in viličasto dlakavi. Na zgornji plasti so temnejši, spodaj pa belkasti. Jeseni so škrlatno obarvani. Nameščeni so navzkrižno na koncu poganjka. So enostavni, jajčasti oz. eliptični in dolgi 6-15 cm ter široki 3,5- 6 cm. Imajo 6-7 parov stranskih žil in so kratko zašiljeni. Listni pecelj je dolg 1-2 cm.",
+          "cvetovi": "Cvetovi so dvospolni, drobni in združeni v okroglaste glavice, ki merijo 12 mm. Okoli glavice rastejo 4 rožnati, narobe jajčasti in na vrhu izrobljeni listi, dolgi 4-5 cm, ki opravljajo vlogo venčnih listov.",
+          "plodovi": "Plodovi so živordeči, koščičasti in eliptični. Debeli so 0,6 cm, dolgi pa 1,2 cm. Vsak vsebuje eno koščico.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cupressus_sempervirens": {
+          "slo": "vednozelena cipresa",
+          "lat": "Cupressus sempervirens",
+          "ita": "cipresso mediterraneo",
+          "videz": "Vednozelena cipresa je drevo, ki meri 30 m v višino in 1 m v širino. Krošnja je ozko stebrasta, zašiljena in visoka, veje so usmerjene navzgor. Skorja je rjava in tanka.",
+          "listi": "Listi so jajčasti, majhni in luskasti. Razporejeni so navzkrižno in tesno prilegli na poganjke.",
+          "cvetovi": "Cvetovi se delijo na moške in ženske. Moški cvetovi so podolgovati, tanki in rumeni, dolgi do 5 mm. Najpogostejši so v spodnjem delu krošnje. Ženski cvetovi so težko opazni, manjši in okroglasti, v premeru merijo 2,5 mm. Razvijejo se pretežno na zgornjem delu krošnje.",
+          "plodovi": "Plodovi ciprese so okrogli, 4 cm debeli storži, ki so najprej zeleni, nato pa se obarvajo v rjavo barvo. Sestavlja jih 8-14 plodnih lusk, ki so lahko gladke ali rahlo nagubane. Pod vsako plodno lusko se nahaja 8-15 semen, ki so ozko okriljena in ploščata. Storži zorijo dve leti. V tretjem letu se odprejo in taki ostanejo na drevesu še več let.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "eriobotrya_japonica": {
+          "slo": "japonska nešplja",
+          "lat": "Eriobotrya japonica",
+          "ita": "nespolo del Giappone",
+          "videz": "Japonska nešplja je do 7 m visoko vednozeleno drevo. Ima izrazito deblo in navzgor usmerjene veje, ki so široko razrasle in oblikujejo dežnikasto ali okroglo in gosto krošnjo.",
+          "listi": "Listi so podolgovati, dolgi 15-25 cm, po robu grobo nažagani in debeli. Rastejo na kratkem peclju. Zgornja plat lista je temno zelena, gola, nagubana in rahlo bleščeča, spodnja pa rjava, dlakava in z izstopajočim ožiljem.",
+          "cvetovi": "Cvetovi so združeni v pokončnih grozdnih latih, dolgih 10-16 cm in imajo izrazit vonj. Cvet je dvospolen, širok do 2 cm in 5-števen. Prekrit je z rdečkastorjavim puhom. Vsebuje rjavordeče prašnike in kremaste venčne liste.",
+          "plodovi": "Plodovi so jabolkam ali hruškam podobni sadeži, dolgi 3-6 cm. Na koncu imajo ostanke čašnih listov. So rumenkaste ali oranžne barve, mesnati, sočni in prijetno kisli. Vsak sadež vsebuje do 2, le redko več rjavih semen, ki so velika in debela do 1,5 cm.",
+          "zanimivosti": "Drevo s svojimi izločki preprečuje rast drugim rastlinam v okolici. Je močno medovita rastlina.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "fagus_sylvatica_purpurea": {
+          "slo": "rdečelistna bukev",
+          "lat": "Fagus sylvatica var. Purpurea",
+          "ita": "faggio purpureo",
+          "videz": "Rdečelistna bukev je listopadno drevo, ki zraste do 40 m v višino. Njena krošnja je velika in zaobljena. Deblo je ravno, široko do 1 m in ima tanko ter sivo skorjo, ki s starostjo pri tleh nekoliko razpoka.",
+          "listi": "Listi so enostavni, eliptične oblike, temno rdeči, dolgi 6-10 cm in široki 3-7 cm. Imajo 5-9 parov stranskih žil. Ob robu imajo dlačice.",
+          "cvetovi": "Cvetovi so enospolni. Okroglaste moške mačice visijo na 2-5 cm dolgem peclju. V vsaki mačici se skriva okoli 20 rumenkastih cvetov zvonaste oblike s 4-15 prašniki. Ženski cvetovi rastejo v paru na nekoliko debelejših pecljih. Vsak pestič ima plodnico jajčaste oblike in po tri rumene ali rdeče brazde.",
+          "plodovi": "Iz vsake plodnice se razvije do 1,5 cm dolg rjav orešek, ki mu pravimo žir. Po dva žira ležita v oleseneli skledici ali bukvici, ki je pogosto poraščena z bodicami. Plod sestavljata žira z bukvico. Jeseni se bukvica odpre s štirimi loputami.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "forsythia_viridissima": {
+          "slo": "temnozelena forsitija",
+          "lat": "Forsythia viridissima",
+          "ita": "forsizia",
+          "videz": "Temnozelena forsitija je listopaden grm, ki zraste do 3 m v višino. Njene veje rastejo navpično.",
+          "listi": "Listi so 4-14 cm dolgi in ozki. So enostavni, eliptične, jajčaste ali suličaste oblike z ožjim spodnjim delom. Listni rob je nazobčan z ostrim vrhom. So temno zelene barve.",
+          "cvetovi": "Cvetovi premera okoli 3 cm so na zunanji strani rumenkasto oranžni, na notranji pa rumeni. Rastejo v skupinah. Grm cveti marca ali aprila.",
+          "plodovi": "Plodovi so ozke kapsule.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ginkgo_biloba": {
+          "slo": "dvokrpi ginko",
+          "lat": "Ginkgo biloba",
+          "ita": "ginkgo",
+          "videz": "Dvokrpi ginko je listopadno drevo, ki zraste lahko do 30 m v višino. Široko je 2 m in ima stožčasto krošnjo z redkimi vejami. Skorja je sivkasta in zelo razpokana.",
+          "listi": "Listi so dvokrpi in pahljačasti. Imajo vzporedno deljene žile. Dolgi so 10-12 cm, široki pa 6-8 cm. Sprva so svetlo oz. temno zeleni, kasneje pa rumeni.",
+          "cvetovi": "Cvetovi rastejo skupaj z listi in se delijo na ženske in moške. Ženski cvetovi so združeni v dolgopecljata socvetja. Vsako socvetje vsebuje dve semenski zasnovi, od katerih se samo ena oplodi. Moški cvetovi so viseče, do 3 cm dolge mačice, sestavljene iz mnogih prašnikov.",
+          "plodovi": "Plodovi so okrogli, debeli 3 cm in rumeno obarvani. Po zgradbi spominjajo na koščičast plod. Zunanji del je mesnat, srednji olesenel in trd, notranji pa suh, kar nam da občutek papirja. Semena dozorijo septembra oz.oktobra.",
+          "zanimivosti": "Ginko je živi fosil. Rastlina nima bližnjih sorodnikov in je edini živeči predstavnik golosemenk ginkopsidov. Ta je izvorna skupina golosemenk, ki so bile na Zemlji razširjene v Mezozoiku. Po pleistocenskih poledenitvah so ostali predstavniki razreda izumrli.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "larix_decidua": {
+          "slo": "evropski macesen",
+          "lat": "Larix decidua",
+          "ita": "larice",
+          "videz": "Evropski macesen je listopadno iglasto drevo, ki zraste do 40 m višine. Macesnovo deblo je ravno, široko do 1,5 m in polnolesno. Skorja je sivorjava in zelo debela (do 4 cm). Krošnja je jajčasto stožčaste oblike, svetla in redka. Veje rastejo vodoravno ali povešeno.",
+          "listi": "Iglice so kratke, dolge 1-4 cm. So nežne, svetlo zelene barve, a jeseni porumenijo in do decembra odpadejo.",
+          "cvetovi": "Moški cvetovi so združeni v 0,5-1 cm velika, rumena, okroglasta socvetja. Ženski cvetovi so združeni v karminasto rdeča ali včasih zelena storžasta socvetja, velika do 2 cm.",
+          "plodovi": "Storži so rjavkasti, majhni, do 4 cm dolgi in jajčaste oblike. Dozorijo oktobra prvo leto, vendar ostanejo na drevesu še nekaj let.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "liquidambar_styraciflua": {
+          "slo": "ameriški ambrovec",
+          "lat": "Liquidambar styraciflua",
+          "ita": "storace americano",
+          "videz": "Ameriški ambrovec je listopadno drevo, visoko 25 m, le redkeje zraste do 40 m. Deblo je debelo 1 m. Skorja na njem je sivkastorjava in globoko razpokana. Krošnja je mogočna, široka in stožčasta.",
+          "listi": "Listi so premenjalno razporejeni in dlanasto krpati. Spominjajo na liste javorja. Vsak list ima 5 - 7 krp, je dolg 10-18 cm in raste na 6-12 cm dolgem peclju. Po robu je drobno nažagan. Zgornja ploskev je temno zelena, bleščeča in gola, spodnja pa je svetlejša in ob vznožju žil dlakava. Listi se jeseni obarvajo rdečkasto, rumenkasto, oranžno ali vijolično in dolgo ostanejo na drevesu.",
+          "cvetovi": "Cvetovi so enospolni, drobni in težko opazni. Moški cvetovi so združeni v pecljate, zelene glavice, ki so gosto prekrite s prašniki. Ženski cvetovi so združeni v rumenkaste viseče glavice.",
+          "plodovi": "Plodovi imajo 1 ali 2 okriljeni sameni. Združeni so v dolgopecljata, glavičasta, viseča soplodja. Plodovi dozorijo oktobra in na drevesu ostanejo še vso zimo.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "liriodendron_tulipifera": {
+          "slo": "tulipanovec",
+          "lat": "Liriodendron tulipifera",
+          "ita": "liriodendro",
+          "videz": "Tulipanovec je listopadno drevo, ki lahko zraste do 50 m v višino, v širino pa do 3m. Skorja je sivkasta in enakomerno, vzdolžno razpokana. Krošnja je v mladosti ozka in stožčasta, kasneje pa zraste v nepravilno obliko.",
+          "listi": "Listi so dolgopecljati, dlanasto krpati, 4-krpi in štirikotni. Dolgi so 8-15 cm in približno enako široki. Na vrhu so izrobljeni. Jeseni se obarvajo v rumeno, pred tem pa so svetlo zeleni zgoraj in modrikasto zeleni spodaj.",
+          "cvetovi": "Cvetovi so dvospolni in do 6 cm dolgi. Rastejo posamezno. Cvetni listi so rumeno zeleni in tvorijo 3 kroge. Zunanji so čašni in so zaviti navzdol, srednji in notranji pa so venčni in stojijo pokončno. Po notranji strani so oranžni.",
+          "plodovi": "Plodovi so združeni v podolgovata, svetlorjava, do 7 cm dolga in 3 cm široka krilata soplodja, ki spominjajo na storže.",
+          "zanimivosti": "Listi tulipanovca spominjajo na tulipane, po katerih nosi drevo ime.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "parrotia_persica": {
+          "slo": "parocija",
+          "lat": "Parrotia persica",
+          "ita": "parrozia",
+          "videz": "Parocija je listopadno drevo, visoko do 10 m. Krošnja je široka in gosta, veje so prepletene in dolge. Drevo pogosto raste večdebelno oz. grmasto. Skorja je sivorjava in tanka. Iz nje se luščijo ploščice lubja in zato zadobi rumenkaste lise.",
+          "listi": "Listi so enostavni, eliptični in spiralno razporejeni. Dolgi so 6-10 cm. Na dnu listne ploskve so zaokroženi oz. srčasti in svetlozeleni. Zgoraj so valoviti in temnozeleni. Po obeh straneh so poraščeni so z zvezdastimi dlačicami. Jeseni postanejo rumeni, oranžni in rdeči.",
+          "cvetovi": "Cvetovi so dvospolni in drobni. Združeni so v okroglaste glavice, sestavljene iz 5-ih cvetov in obdane z dlakavimi ovršnimi listi, ki so dolgi 1-1,5 cm. Vsak cvet ima 5-7 kratkih in zelenih čašnih listov, venčni listi manjkajo. Najbolj opaznih je 14 visečih, do 1,5 cm dolgih prašnikov s škrlatnordečimi prašnicami.",
+          "plodovi": "Plodovi so olesenele, okroglaste in dlakave glavice, v katerih so črna semena, dolga do 8 mm.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "picea_pungens_fat_albert": {
+          "slo": "bodeča smreka",
+          "lat": "Picea pungens var. fat Albert",
+          "ita": "abete del Colorado",
+          "videz": "Bodeča smreka je iglavec, ki lahko zraste do 40 m visoko. Ima gosto krošnjo in oranžnosivo skorjo.",
+          "listi": "Iglice so dolge do 3 cm, modro do srebrnozelene, ostro zašiljene in bodeče. V prečnem prerezu so tetragonalne.",
+          "cvetovi": "Je enodomna in vetrocvetna vrsta. Moška socvetja so valjasta , ženska socvetja pa storžasta, zelena in dolga do 8 cm.",
+          "plodovi": "Soplodja so podolgovato valjasti in rjavorumeni storži. Dolgi so 8 cm. Sprva so pokončni, nato se povesijo.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "punica_granatum": {
+          "slo": "granatno jabolko",
+          "lat": "Punica granatum",
+          "ita": "melograno",
+          "videz": "Granatno jabolko je košat grm ali manjše listopadno drevo, ki pogosto zraste 2-4 m visoko. Veje so rahlo 4-robe in trnate, gojena sorta pa je brez trnov.",
+          "listi": "Listi so enostavni, podolgovato jajčasti do suličasti, 2-8 cm dolgi.",
+          "cvetovi": "Cvetovi so dvospolni 3 cm široki in škrlatno rdeče obarvani, rdeče barve je tudi čaša.",
+          "plodovi": "Plod je okroglast, 6-8 cm debel, na njem najdemo ostanek čaše; je rdečkasto rumen do rjav in vsebuje mnogo semen, katerih zunanja plast je sočna in polna vitaminov.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "quercus_rubra": {
+          "slo": "ameriški rdeči hrast",
+          "lat": "Quercus rubra",
+          "ita": "quercia rossa americana",
+          "videz": "Ameriški rdeči hrast je 2 m debelo listopadno drevo, ki zraste v višino do 35 m. Oblika krošnje se s starostjo iz stožčaste preoblikuje v široko zaobljeno. Krošnja večkrat sega zelo nizko. Skorja na deblu je plitvo razpokana in siva, pri starejših drevesih potemni.",
+          "listi": "Listi ameriškega rdečega hrasta so zgoraj temno zeleni, spodaj svetlejši, s šopki rjavkastih dlačic v pazduhah žil. Jeseni se lepo oranžno ali rdeče obarvajo. Dolgi so10-25 cm, široki 10-15 cm in pernato krpati. Dno listne ploskve je klinasto. Na vsaki strani lista je 3-5 krp, ki so neenakomerno nazobčane in se trnato končujejo. Listi rastejo na 2-5 cm dolgih pecljih.",
+          "cvetovi": "Cvetovi se delijo na moške in ženske. Moški so združeni v viseče mačice, ženski pa rastejo v klasih.",
+          "plodovi": "Plodovi so jajčasti želodi, dolgi do 25 mm, široki do 23 mm, ki zgodaj odpadejo iz skledice. Dozorijo jeseni v drugem letu.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "quercus_suber": {
+          "slo": "plutovec, hrast plutec",
+          "lat": "Quercus suber",
+          "ita": "quercia da sughero",
+          "videz": "Plutovec je 1 m široko vednozeleno drevo, ki zraste v višino 15, redkeje 20 m. Krošnja je široka, razvejana, vendar nepravilne oblike in včasih razdeljena v več delov. Lubje je plutasto, do 5 cm debelo, na zunanji strani sivo, v notranjosti pa rdeča, kar daje olupljenim deblom značilno barvo.",
+          "listi": "Listi so eliptične ali jajčaste oblike, enostavni, zašiljeni, 3-5 cm dolgi in do 4 cm široki. Na vsaki strani imajo 5-7 ostrih zobcev. So usnjati. Zgoraj so temno zeleni in gladki, spodaj pa belkasti in dlakavi. Pogosto so ukrivljeni navzdol, kot v nekakšno plitvo skledico. Na drevesu ostanejo 2-3 leta, le redko manj.",
+          "cvetovi": "Moški cvetovi so združeni v 4-7 cm dolge, rumene in viseče mačice. Ženski cvetovi so v skupinah po 2-5 združeni v pokončne klaske, dolge 0,5-3 cm.",
+          "plodovi": "Plodovi so do 4,5 cm dolgi in do 1,8 cm široki želodi. Skledica, ki želod pokriva skoraj do polovice, ima sive, puhaste izrastke.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "sophora_japonica": {
+          "slo": "japonska sofora",
+          "lat": "Sophora japonica",
+          "ita": "sofora",
+          "videz": "Japonska sofora je listopadno drevo, ki zraste do 25 m v višino. Deblo je kratko, krošnja pa široka, okroglasta in vrzelasta. Skorja je sivozelena, prej tanka in gladka, kasneje pa debela in razpokana. Korenine so površinske in sežejo daleč od drevesa.",
+          "listi": "Listi so lihopernato sestavljeni in premenjalno nameščeni. Dolgi so 15-25 cm in so sestavljeni iz 7-17 nasprotno razporejenih lističev. Ti so 2,5-5 cm dolgi in jajčasti. Imajo gladek rob. Zgoraj so temnozeleni in bleščeči, spodaj pa sivozeleni in dlakavi.",
+          "cvetovi": "Cvetovi so dvospolni in 5-števni. Venec je metuljast in 10-20 mm dolg. Cvetovi so združeni v 25-30 cm dolge, grozdaste late.",
+          "plodovi": "Plodovi so 5-10 cm dolgi, goli in med semeni močno stisnjeni stroki, ki vzdolžno ne pokajo. V njih so črna, okroglasta in velika semena, katere obdaja gosta lepljiva snov. Semen je 1-6 in dozorijo pozno jeseni oz. pozimi.",
+          "zanimivosti": "Leta 2006 so soforo uvrstili v samostojen rod Styphnolobium, za katerega je značilno, da na koreninah nima dušičnih bakterij.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "syringa_vulgaris": {
+          "slo": "španski bezeg, lipovka",
+          "lat": "Syringa vulgaris",
+          "ita": "lilla’",
+          "videz": "Španski bezeg ali lipovka je listopaden grm ali do 7 m visoko drevo. Debelo je do 20 cm. Skorja se lušči.",
+          "listi": "Listi so enostavni, navzkrižno nameščeni, široko jajčasti ali srčasti. Dolgi so 5-12 cm. Imajo gladek listni rob.",
+          "cvetovi": "Cvetovi so majhni in vijoličasti. Združeni so v močno dišeča, pokonci rastoča in 10-20 cm dolga latasta socvetja.",
+          "plodovi": "Plodovi so rjave, 1-2 cm dolge kapsule, ki imajo v notranjosti drobna semena.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "taxus_baccata": {
+          "slo": "tisa",
+          "lat": "Taxus baccata",
+          "ita": "tasso",
+          "videz": "Tisa je do 1m debelo in vednozeleno iglasto drevo, ki zraste do 20 m visoko. Pogosto raste večdebelno, debla se med seboj rada zrastejo. Skorja je rdečkastorjave barve, tanka in na mlajših vejah gladka. Lubje se lušči v trakovih in luskah.",
+          "listi": "Iglice ostanejo na vejah 4-5, izjemoma tudi 8 let. Dolge so 3 cm in široke do 2,5 mm. So ploščate, mehke ter dolgo zašiljene. Zgoraj so temnozelene in bleščeče, na spodnji strani imajo dve svetli progi listnih rež.",
+          "cvetovi": "Tisa je dvodomno drevo. Moški cvetovi so okroglasti in rumeni, ženski cvetovi pa so zelo drobni, ovalni in podobni listnim brstom; na konici imajo semensko zasnovo.",
+          "plodovi": "Plodovi se na ženskem drevesu izrazijo jeseni, ko dozorijo značilni, do 10 mm veliki plodovi rdeče barve, ki jih imenujemo tudi tisove jagode. Seme je temno rjave barve, okrogle oblike, ter obdano s čašastim, rdečim in sočnim semenskim ovojem.",
+          "zanimivosti": "Tisa lahko doseže starost 2000 let.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "tilia_cordata": {
+          "slo": "lipovec",
+          "lat": "Tilia cordata",
+          "ita": "tiglio selvatico",
+          "videz": "Lipovec je do 30 m visoko listopadno drevo s široko krošnjo. Skorja je v prvih letih življenja gladka in zelenkasto rjava, pozneje potemni in vzdolžno razpoka.",
+          "listi": "Listi so premenjalno nameščeni, enostavni, pravilne srčaste oblike, 4-10 cm dolgi in enako široki. Po robu so drobno nažagani. V pazduhah žil imajo šopke rjastih dlačic. Pecelj je gol in 1,5-3 cm dolg.",
+          "cvetovi": "Dvospolni cvetovi so dišeči in rumenozelene barve. Cvet ima 5 čašnih in 5 venčnih listov, iz 5 plodnih listov zraslo plodnico in do 30 prašnikov. Po 5-11 cvetov je združenih v socvetje, ki je s skupnim pecljem pritrjeno ja rumen ovršni list (braktejo).",
+          "plodovi": "Plod je večsemenski, okroglasti, 5-7 mm debel orešek. Po površini je rahlo puhast in vsebuje 1-2 temno rjavi semeni.",
+          "viri": [],
+          "viri_slike": {}
+        }
+      }
+    },
+    "krask_sred": {
+      "name": "Kraško sredozemsko področje",
+      "plants": {
+        "acer_campestre": {
+          "slo": "maklen, poljski javor",
+          "lat": "Acer campestre",
+          "ita": "acero campestre",
+          "videz": "Je listopadno drevo visoko do 20 m in do 50 cm debelo. Poganjki so svetlo rjavi, tanki in goli, na njih se pogosto tvorijo plutasta rebra. Skorja na deblu je drobno mrežasto razpokana, sprva rjavkasta, pozneje rjava do temnorjava.",
+          "listi": "Listi so razmeroma majhni, 5-10 cm široki in 3-7 cm dolgi, dlanasto krpati ali dlanasto deljeni. Med 5 listnimi krpami so srednje 3 največje, vrh lista je top. Listi so sprva dlakavi, nato zgoraj goli in temnejši, spodaj svetlejši in goli ali fino dlakavi. Pecelj je rdečkast do 10 cm dolg.",
+          "plodovi": "Krilata plodiča rasteta pod kotom 180°, sta rdečkaste barve, kratko dlakava ali gola.",
+          "cvetovi": "Maklen je žužkocvetna vrsta, ki cveti konec aprila ali maja hkrati z olistanjem. Cvetovi so majhni in rumenozeleni, po 10-20 združeni v rumenkastozelena češuljasta socvetja. Lahko so dvospolni, moški ali ženski.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "acer_monspessulanum": {
+          "slo": "trokrpi javor",
+          "lat": "Acer monspessulanum",
+          "ita": "acero minore",
+          "videz": "Trokrpi javor je do 12 m visoko in do 0,5 debelo listopadno drevo. Ima veliko, razraslo krošnjo s kratkim deblom. Lubje je sivorjavo in gladko, pozneje pa na njem nastanejo drobne razpoke.",
+          "listi": "Listi trokrpega javorja so navzkrižno razporejeni in v primerjavi z ostalimi evropskimi vrstami manjši. Dolgi so 3-8 cm. Imajo srčasto osnovo in so sestavljeni iz treh manjših.Listi so bleščeči, usnjati in neprepustni, na zgornji strani temnejši, spodaj pa svetlejši.",
+          "cvetovi": "Drevo cveti okoli aprila in maja, istočasno z olistanjem. Njegovi cvetovi so rumenkasti, združeni v viseče češulje; so lahko dvospolni ali enospolni.",
+          "plodovi": "Plodovi oz. samare so sestavljene iz dveh krilatih, vzporednih, 2-5 cm dolgih, golih in ob zrelosti rdečkastih delnih plodičev.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "arbutus_unedo": {
+          "slo": "jagodičnica",
+          "lat": "Arbutus unedo",
+          "ita": "corbezzolo",
+          "videz": "Jagodičnica je zimzeleni grm ali 10-12 m in 0,5-1 m debelo drevo. Deblo je precej krivo in se že nizko razveji v gosto, pravilno, široko razraščeno krošnjo z močnimi vejami. Skorja je na debelejših vejah in deblu rdečkaste barve, pozneje postane sivorjave barve, z nje se vzdolžno luščijo ozki trakovi lubja.",
+          "listi": "Listi so premenjalno razporejeni, goli, vednozeleni, podolgovato eliptične oblike, na obeh koncih zašiljeni. Ti so zgoraj bleščeči in temni, spodaj pa svetlejši, 5-10 cm dolgi, 1,5-4 cm široki.",
+          "cvetovi": "Dvospolni cvetovi so vrčasti, kratkopecljati, 5-števni in do 9 mm dolgi. Do 40 cvetov je združenih v viseča, 3-6 cm dolga latasta socvetja.",
+          "plodovi": "Plodovi so užitni, okrogle oblike, 1,5-2 cm debeli, s koničasto, bradavičasto površino. Zorijo v pozni jeseni. Najprej so zeleni, nato pa postanejo temnordeče barve.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "carpinus_betulus": {
+          "slo": "navadni beli gaber",
+          "lat": "Carpinus betulus",
+          "ita": "carpino bianco",
+          "videz": "Beli gaber je listopadno, visoko drevo, ki zraste do 25 m, izjemoma 30 m višine in do 1 m debeline. Deblo je vzdolžno žlebasto in kitasto, s tankim, sivim, večinoma gladkim lubjem, ki v starosti razpoka. Krošnja je razraščena in stožčaste oblike.",
+          "listi": "Listi so enostavni, podolgovato jajčasti, z nažaganim robom. Imajo 12-14 parov opaznih žil. Dolgi so 5-12 cm, široki pa 2-5 cm.",
+          "cvetovi": "Moški cvetovi so brez cvetnega odevala, imajo 7-9 prašnikov in rastejo v zalistju podpornega lista. Združeni so v 4-6 cm dolge zelenkaste mačice, ki se aprila razvijejo iz cvetnih brstov na lanskih poganjkih. Ženska socvetja so le do 2 cm dolga in tanjša, razvijejo se na koncu poganjkov. Beli gaber cveti konec aprila in maja.",
+          "plodovi": "Plodovi so majhni sploščeni oreščki, veliki 5-10 mm, ki ležijo na trikrpih ovršnih listih. Združeni so v viseče klase, dolge do 15 cm.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "celtis_australis": {
+          "slo": "navadni koprivovec",
+          "lat": "Celtis australis",
+          "ita": "bagolaro",
+          "videz": "Drevo je visoko tudi do 25 m, debelo do 2 m, lahko dočaka do 2000 let. Navadni koprivovec ima široko, okroglasto in zračno krošnjo. Deblo se od krošnje proti tlom nesorazmerno hitro debeli, tako da se ob tleh precej razširi. Skorja je gladka, svetlo sive barve, spominja na bukovo; pri starejših drevesih je lubje drobno razpokano.",
+          "listi": "Listi so premenjalno nameščeni, enostavni, podolgovato jajčasti, zašiljeni, 5-15 cm dolgi in 3-6 cm široki. Rob je 1- do 2-krat nažagan; listi so zgoraj temno zeleni in grobi, spodaj in po peclju rahlo dlakavi.",
+          "cvetovi": "Rastlina je enodomna in vetrocvetna; cveti med aprilom in majem hkrati z olistanjem. Cvetovi so dvospolni, včasih tudi enospolni z nerazvitim pestičem, drobni, slabo opazni in pecljati, cvetno odevalo je neznatno 4-6 -števno, prašnikov je 4-6.",
+          "plodovi": "Plodovi so koščičasti, premera 1-1,2 cm, sprva zeleni, nato rumeni, ko dozorijo vijoličastočrni. Imajo razbrazdano koščico in so užitni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cercis_siliquastrum": {
+          "slo": "judeževec",
+          "lat": "Cercis siliquastrum",
+          "ita": "albero di Giuda",
+          "videz": "Judeževec je do 12 m visoko listopadno drevo, ki ima široko razraslo krošnjo. Zanj je značilno, da je skorja skoraj črna, plitveje je prečno razpokana in v razpokah rdečkasta.",
+          "listi": "Listi so enostavni, okroglasti, dolgopecljati, 5-12 cm dolgi in do 9 cm široki, celorobi, pri osnovi globoko ledvičasti oz. srčasti in goli. Zgoraj so temnozeleni, spodaj svetlejši. Pecelj in žile so navadno rdečkaste barve.",
+          "cvetovi": "Dvospolni cvetovi rastejo v kratkih gozdih po 4-10; so pecljati, do 2 cm dolgi, škrlatni in občasno rožnati, 5-števni, metuljasti, imajo 10 prašnikov in eno plodnico.",
+          "plodovi": "Plodovi so 7-10 cm dolgi, ploščati, zašiljeni in rdečkasto rjavi stroki, ki pogosto ostanejo na drevesu še dolgo v zimo. V njih najdemo ploščata, zelo trda, do 4 mm dolga, rjava semena.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cornus_mas": {
+          "slo": "rumeni dren",
+          "lat": "Cornus mas",
+          "ita": "corniolo",
+          "videz": "Dren je termofilni grm ali do 8 m visoko drevo. Ima rumenosivo skorjo, ki razpoka v drobne ploščice. Skorja na deblu je sprva rumenosiva in gladka, pozneje potemni in razpoka v drobne ploščice. Poganjki so po eni strani zeleni, po drugi pogosto rdečkasti in podobni poganjkom rdečega drena.",
+          "listi": "Listi so enostavni, jajčasti do eliptični, zašiljeni, do 10 cm dolgi. Zgornja stran je zelena in gladka, spodnja pa svetlejša in dlakava. Imajo 3-5 parov lokastih žil. Spodaj so v pazduhah žil značilni šopki belih dlačic.",
+          "cvetovi": "Cvetovi so dvospolni, 4-števni, rumeni, drobni in združeni v 1,5-2 cm široka pakobulasta socvetja.",
+          "plodovi": "Plod je do 2 cm dolga eliptična drenulja rdeče barve, ki ob dozoritvi skoraj počrni. Drenulje so užitne, kislega okusa, po prvi slani se zmehčajo in postanejo sladke.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cornus_sanguinea": {
+          "slo": "rdeči dren",
+          "lat": "Cornus sanguinea",
+          "ita": "sanguinella",
+          "videz": "Rdeči dren je listopadni grm. Doseže 4 m višine in ima dolge, šibaste, rdečkaste poganjke.",
+          "listi": "Listi so enostavni in elipsaste oblike, 2-4 cm široki in 4-8 cm dolgi. Imajo 3-4 pare žil, ki rastejo polkrožno v obliki loka. Zgornja stran listne ploskve je dlakava in zelena, medtem ko je spodnja stran bolj bledo zelena. Na spodnji strani so pazduhe listnih žil brez šopkov dlačic.",
+          "cvetovi": "Cvetovi so dvospolni,beli, 4-števni in imajo neprijeten vonj. V pakobulastih socvetjih, ki so široka 4-5 cm, je zbranih 20-50 cvetov.",
+          "plodovi": "Plodovi so majhne črne jagode, ki imajo v notranjosti po eno seme.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cotinus_coggygria": {
+          "slo": "navadni ruj",
+          "lat": "Cotinus coggygria",
+          "ita": "scotano",
+          "videz": "Navadni ruj je listopadni grm, ki sega 5-7 m v višino. Skorja je na mladih poganjkih rdečkastorjave barve, gladka in posuta s svetlimi lenticelami, na deblu luskasto razpokana.",
+          "listi": "Listi so dolgopecljati, enostavni, široko jajčasti do okroglasti, goli, celorobi in premenjalno razporejeni. Dolgi so 3-8 cm, široki pa 4-7 cm. Na vrhu so zaokroženi ali izrobljeni. Jeseni se obarvajo najprej rumeno, nato oranžno do temno rdeče; preden odpadejo, porjavijo.",
+          "cvetovi": "Na isti rastlini lahko najdemo do 4 vrste cvetov: dvospolne, moške z zakrnelo plodnico, ženske z zakrnelimi prašniki in sterilne. Združeni so v velika latasta socvetja. Cvetovi so drobni, 5-števni in zelenkastorumeni. Po cvetenju se peclji sterilnih cvetov podaljšajo in se pokrijejo z dolgimi rumenkastimi do rdečkastimi dlačicami. Ruj cveti od maja do junija.",
+          "plodovi": "Rjavi koščičasti plodovi s suhim osemenjem so ledvičaste oblike in veliki do 5 mm.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cupressus_sempervirens": {
+          "slo": "vednozelena cipresa",
+          "lat": "Cupressus sempervirens",
+          "ita": "cipresso mediterraneo",
+          "videz": "Vednozelena cipresa je drevo, ki meri 30 m v višino in 1 m v širino. Krošnja je ozko stebrasta, zašiljena in visoka. Veje so tesno prilegle h deblu. Skorja je rjava in tanka.",
+          "listi": "Listi so jajčasti, majhni in luskasti, navzkrižno razporejeni in tesno prilegli na poganjke.",
+          "cvetovi": "Cvetovi se delijo na moške in ženske. Moški cvetovi so podolgovati, tanki, do 5 mm dolgi in rumeni. Ženski cvetovi so majhni, okroglasti, veliki do 2,5 mm, slabo opazni in razviti v zgornjem delu krošnje.",
+          "plodovi": "Plodovi so okrogli in 4 cm debeli storži, ki se od zelene obarvajo v rjavo barvo. Sestavlja jih 8-14 plodnih lusk, ki so lahko gladke ali rahlo nagubane. Pod vsako izmed teh se nahaja 8-15 semen, ki so ozko okriljena in ploščata. Storži zorijo dve leti. V tretjem letu se odprejo in ostanejo na drevesu še nekaj časa.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "euonymus_europaea": {
+          "slo": "navadna trdoleska",
+          "lat": "Euonymus europaea",
+          "ita": "fusaggine",
+          "videz": "Navadna trdoleska je do 6 m visok grm ali listopadno drevo z gladkim rjavkasto zelenim lubjem in zračnimi ter redko olistanimi vejami.",
+          "listi": "Listi so enostavni, suličasti ali podolgovato jajčasti, goli in do 10 cm dolgi. Razporejeni so navzkrižno.",
+          "cvetovi": "Cvetovi so dvospolni, zelenkasti, združeni v 3-9 cvetne pakobule.Cvetijo spomladi hkrati z olistanjem.",
+          "plodovi": "Plodovi dozorijo pozno poleti, med avgustom in septembrom. Plod je 1-1,3 cm široka, štiriroba, štiripredalasta, živordeča glavica; v vsakem predalu je po eno jajčasto seme, obdano z oranžnim ovojem. Za človeka so plodovi strupeni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "fraxinus_ornus": {
+          "slo": "mali jesen",
+          "lat": "Fraxinus ornus",
+          "ita": "orniello",
+          "videz": "Mali jesen je listopadno drevo, 15-20 m visoko in do 0,5 m debelo, s široko, košato in močno razraščeno krošnjo in kratkim deblom. Skorja je siva in gladka, v manjše ploskve razpoka šele pri starih drevesih.",
+          "listi": "Listi so navzkrižno razporejeni, lihopernato sestavljeni iz 5-9 lističev in 10-25 cm dolgi. Lističi so 4-10 cm dolgi, eliptični ali jajčasti, pecljati, kratko zašiljeni; zgoraj so sivozeleni in goli, spodaj svetlo zeleni in ob žilah rjasto dlakavi.",
+          "cvetovi": "Cvetovi so beli, dišeči in združeni so v do 20 cm dolgih visečih latih. So dvospolni ali enospolni in imajo dvojno cvetno odevalo. Čaša je še kar majhna ter 4-delna; 4 venčni listi so črtalasti, ozki, 5-10 mm dolgi in pri dnu zraščeni.",
+          "plodovi": "Plod je rjav, podolgovat, 2,5-3,5 cm dolg, krilat orešek, ki dozori avgusta.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "juniperus_communis": {
+          "slo": "navadni brin",
+          "lat": "Juniperus communis",
+          "ita": "ginepro comune",
+          "videz": "Brin je zimzeleno, do 15 m visoko iglasto drevo s sivorjavkastim lubjem. Pogosto raste tudi kot široko razvejan grm. Njegova krošnja je lahko široka in nepravilna.",
+          "listi": "Igličasti listi so togi, koničasti, zašiljeni in bodeči, 1-2 cm dolgi in do 2 mm široki; zgoraj imajo vzdolžno belo progo. Največkrat rastejo po 3 skupaj v vretencu in so na veji pritrjeni do 4-ih let. Če jih prečno prerežemo, imajo obliko trapeza.",
+          "cvetovi": "Moški cvetovi so eliptični, 4 do 5 mm dolgi in rumeni; rastejo v pazduhah lanskoletnih iglic. Ženski cvetovi so zelenkasti, težko opazni, saj so podobni listnim brstom in sestavljeni iz treh plodnih lusk. Brin cveti od aprila do maja.",
+          "plodovi": "Plodne luske po oploditvi omesenij in tvorijo jagodasti storž, imenovan tudi brinova jagoda. Najprej je storž zelene barve, ko dozori, postane temno modre barve. V omesenelem storžu so po 3 semena.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "laurus_nobilis": {
+          "slo": "lovor",
+          "lat": "Laurus nobilis",
+          "ita": "alloro",
+          "videz": "Lovor je značilni zimzeleni grm, ki raste pretežno ob sredozemski obali. Njegova krošnja lahko doseže višino 10-15 m. Z lahkoto ga prepoznamo zaradi značilnega vonja. Večkrat ga uporabljamo kot začimbo.",
+          "listi": "Lovorjevi listi so podolgovati, suličasti, priostreni in dolgi 5-12 cm. Zgornja stran lista je bleščeča, usnjata, temno zelene barve, spodnja stran pa je svetlejša in se ne svetlika. Zanje je tudi značilno, da imajo kratek pecelj in rahlo valovit rob.",
+          "cvetovi": "Lovor cveti od februarja do aprila. Njegovi cvetovi so zelenkasto-rumene barve. Cvetovi so enospolni, to pomeni, da razlikujemo ženske cvetove od moških. Lovor je dvodomna rastlina, to pomeni, da na isti rastlini ni moških in ženskih cvetov.",
+          "plodovi": "Lovorjevi plodovi se razvijejo le iz ženskih cvetov; iz njih nastane temno modra, sočna jagoda.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ligustrum_lucidum": {
+          "slo": "bleščeča kalina",
+          "lat": "Ligustrum lucidum",
+          "ita": "ligustro lucido",
+          "videz": "Bleščeča kalina je vednozeleno drevo ali grm, ki zraste do 10 m visoko. Krošnja je okroglasta ali ovalna, zelo razraščeno in gosta. Skorja je sprva gladka, s starostjo razpoka in osivi.",
+          "listi": "Listi so navzkrižno razporejeni, enostavni, jajčasto suličasti in zašiljeni. Dolgi so 7-12 cm in široki 3-7 cm. So vednozeleni in bleščeči, spodaj svetlejši.",
+          "cvetovi": "Cvetovi so združeni v bele, dišeče late, ki so dolgi 10-20 cm. Imajo zvonasto čašo in bel lijast venec.",
+          "plodovi": "Plodovi so do 1 cm velike, ovalne ali okrogle, modročrne, večsemenske jagode.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ligustrum_vulgare": {
+          "slo": "navadna kalina",
+          "lat": "Ligustrum vulgare",
+          "ita": "ligustro comune",
+          "videz": "Navadna kalina je do 3 m visok listopaden grm. Njena skorja je na mladih poganjkih gola, sivorjava in večkrat posuta z lenticelami, na debelejših deblih pa potemni in plitvo vzdolžno razpoka.",
+          "listi": "Listi so enostavni, podolgovato suličasti, nekoliko usnajti in celorobi, kratkopecljati, dolgi do 7 cm in široki do 3 cm. Zanje je značilno, da ob milih zimah ostanejo pritrjeni na vejah precej dolgo časa.",
+          "cvetovi": "Dvospolni drobni cvetovi so združeni v 6-8 cm dolgih, latastih socvetjih. Njihova čaša je nerazločno 4-zoba, beli venec pa je lijast in 5 mm dolg. Cvetovi oddajajo neprijeten vonj.",
+          "plodovi": "Plod je okrogla, 5-10 mm debela, bleščeča, sočna črna jagoda, ki vsebuje 2-4 rjava semena. Plodovi dozorijo med avgustom in oktobrom.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "myrtus_communis": {
+          "slo": "navadna mirta",
+          "lat": "Myrtus communis",
+          "ita": "mirto",
+          "videz": "Navadno mirta je do 5 m velik vednozelen grm, razširjen po vsem Sredozemlju.",
+          "listi": "Listi so navzkrižno razporejeni, do 3 cm dolgi, celorobi, usnjati, goli, bleščeči. Zanje je značilno, da oddajajo močan in prijeten vonj.",
+          "cvetovi": "Cvetovi so beli, pecljati in dvospolni.",
+          "plodovi": "Plod je črnomodra poprhnjena večsemenska jagoda, ki dozori novembra in je užitna. Čašni listi ostanejo na plodu.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "olea_europaea_sativa_pendolino": {
+          "slo": "oljka sorta pendolino",
+          "lat": "Olea europaea sativa var. Pendolino",
+          "ita": "olivo pendolino",
+          "videz": "Oljka sorte pendolino ima viseče veje in doseže 10 m višine.",
+          "listi": "Listi so enostavni, usnjati, eliptični do suličasti, do 8 cm dolgi. Na zgornji strani je list sivozelen, na spodnji srebrno siv.",
+          "cvetovi": "Beli cvetovi so drobni in združeni v grozdih.",
+          "plodovi": "Plod je okroglast ali ovalen, asimetričen, srednje majhen, sprva zelen, pozneje temno moder, skoraj črn.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ostrya_carpinifolia": {
+          "slo": "navadni črni gaber",
+          "lat": "Ostrya carpinifolia",
+          "ita": "carpino nero",
+          "videz": "Črni gaber je debelo listopadno drevo, ki raste do 20 m visoko in doseže do 50 cm premera. Vrsta ima široko razvejano krošnjo in masivno, pogosto krivo deblo, ki na pobočju pogosto raste nekoliko postrani. Skorja je temna, skoraj črna in močno razpokana.",
+          "listi": "Listi so premenjalno nameščeni, enostavni, podolgovato jajčasti ali eliptični in zašiljeni, 5-13 cm dolgi in 2,5-6 cm široki, na robu dvakrat napiljeni. Zgoraj so temno zeleni in bleščeči, spodaj pa svetlejši in ob žilah dlakavi.",
+          "cvetovi": "Vrsta je enodomna in vetrocvetna, cveti aprila in maja meseca. Moška socvetja so v obliki mačic, ženski cvetovi pa so združeni v zelenkaste klaske.",
+          "plodovi": "Plodovi dozorijo julija in avgusta in na drevesu ostanejo vse do zime. Združeni so v storžasta soplodja, ki spominjajo na plodove hmelja. Delni plodovi so enosemenski, 6-10 mm dolgi, rjavkasti oreški.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "pinus_pinea": {
+          "slo": "pinija",
+          "lat": "Pinus pinea",
+          "ita": "pino domestico",
+          "videz": "Pinija je vrsta bora, ki raste v višino do 30 m in širino do 2 m. Krošnja je v mladosti okroglasta, v starosti pa dežnikasta. Skorja je v prvih letih siva in gladka, nakar postane rdečkasto siva, do 10 cm debela in vzdolžno globoko razpokana. Veje so razprte in rahlo vodoravne.",
+          "listi": "Iglice rastejo v šopkih po 2, so 10-20 cm dolge in do 2 mm debele, malo ukrivljene in svetlo zelene barve.",
+          "cvetovi": "Moški cvetovi so rumeni in sestavljeni iz številnih spiralasto nameščenih prašnikov in se v številnih skupinah razvijejo na dnu letošnjih poganjkov. Ženska storžasta socvetja so pecljata in največkrat rastejo posamično na koncu letošnjih poganjkov.",
+          "plodovi": "Storži so okroglasti, simetrični, 8-15 cm dolgi in 7-10 cm debeli, rjavi do rdečkastorjavi in bleščeči. Olesenele plodne luske so precej debele, grbica na apofizi je svetlo siva in dobro vidna. Pod vsako plodno lusko lahko najdemo 2 rjavkasti semeni brez krilc, ki sta do 2 cm dolgi, do 1 cm debeli. V semenu se nahaja užitno jedrce.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "pistacia_terebinthus": {
+          "slo": "terebint",
+          "lat": "Pistacia terebinthus",
+          "ita": "terebinto",
+          "videz": "Terebint je večji grm ali manjše listopadno drevo s široko krošnjo, do 14 m visoko in do 1 m debelo. Lubje je precej gladko, temnorjave do sivkaste barve, pozneje postane mrežasto razpokano.",
+          "listi": "Listi so premenjalno nameščeni, dolgi 9-16 cm in lihopernato sestavljeni iz 7, redkeje do 11 lističev. Ti so podolgovato jajčasti in na vrhu topi, usnjati, celorobi, zgoraj temnozeleni in svetleči, spodaj svetlozeleni, 3-6 cm dolgi, 1,5-3 cm široki. Lističi so zgodaj spomladi rdečkasti. Če liste zmečkamo, zaznamo oster vonj po terpentinu.",
+          "cvetovi": "Cvetovi so združeni v pokončna, latasta, 5-15 cm dolga socvetja, ki so sprva rdečkaste, pozneje rumenozelene barve. Moška in ženska socvetja so na ločenih drevesih. Posamezni cvetovi imajo enojno cvetno odevalo, moški imajo 3-5 sedečih prašnikov z velikimi prašnicami, ženski okroglasto plodnico, s kratkim 3-delnim vratom.",
+          "plodovi": "Plodovi so koščičasti, združeni v latasta soplodja, okroglasti do jajčasti, do 8 mm veliki, mesnati, sprva zeleni, nato rdeči in nazadnje rjavkasti ali modrikasti. Vsebujejo po eno sploščeno koščico.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "prunus_mahaleb": {
+          "slo": "rešeljika",
+          "lat": "Prunus mahaleb",
+          "ita": "ciliegio di Santa Lucia",
+          "videz": "Rešeljika je do 12 m visoko in do 40 cm debelo listopadno drevo. Rastlina ima kratko deblo in široko razvejeno, okroglasto in redko krošnjo. Njena skorja je rjave barve in je močneje razpokana.",
+          "listi": "Listi so enostavni, široko jajčaste do okroglaste oblike in so premenjalno nameščeni na veji. Navadno so 3-8 cm dolgi in na koncu ostro zašiljeni, na dnu listne ploskve so zaokroženi ali srčasti. Listni rob je napiljen in žlezast.",
+          "cvetovi": "Dvospolni beli cvetovi imajo 5-števno cvetno odevalo, so dišeči in precej podobni češnjevim. Običajno so do 1,5 cm široki in po 5-14 združeni v drobna, pokončna, češuljasta socvetja.",
+          "plodovi": "Plod je koščičast, navadno jajčaste do okroglaste oblike, 8-10 mm dolg in 8-9 mm debel, bleščeče črn in nekoliko grenak.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "punica_granatum": {
+          "slo": "granatno jabolko",
+          "lat": "Punica granatum",
+          "ita": "melograno",
+          "videz": "Granatno jabolko je košat grm ali manjše listopadno drevo, ki pogosto zraste 2-4 m visoko. Veje so rahlo 4-robe in trnate, gojena sorta pa je brez trnov.",
+          "listi": "Listi so enostavni, podolgovato jajčasti do suličasti, 2-8 cm dolgi.",
+          "cvetovi": "Cvetovi so dvospolni 3 cm široki in škrlatno rdeče obarvani, rdeče barve je tudi čaša.",
+          "plodovi": "Plod je okroglast, 6-8 cm debel, na njem najdemo ostanek čaše; je rdečkasto rumen do rjav in vsebuje mnogo semen, katerih zunanja plast je sočna in polna vitaminov.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "quercus_ilex": {
+          "slo": "črnika",
+          "lat": "Quercus ilex",
+          "ita": "leccio",
+          "videz": "Črnika je vednozeleni hrast. Drevo lahko seže do 20 m višine. Njegova krošnja je gosta, razsežna in okrogle oblike. Skorja je sivorjava, pri mladih rastlinah gladka, pri starejših razpoka v plitve luske.",
+          "listi": "Listi so usnjati, enostavni, podolgovato jajčasti in zašiljeni. Na drevesu ostanejo za 2 leti. Pri mladih rastlinah je listni rob narezan in ima ostre zobce, pri odraslih pa je listna ploskev celoroba. Zgornja stran lista je svetleča, medtem ko je spodnja bela in puhasta zaradi bleščečih belih dlačic.",
+          "cvetovi": "Cvetovi so enospolni in poženejo skupno z listi meseca junija. Moški cvetovi so združeni v rumene viseče mačice, ženski pa so po 6-7 združeni v kratkih klasih.",
+          "plodovi": "Želod je podolgovat, razmeroma droben, 2-3 cm dolg, dozori v prvih dneh septembra in takrat postane svetlo rjave barve.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "quercus_petraea": {
+          "slo": "graden",
+          "lat": "Quercus petraea",
+          "ita": "rovere",
+          "videz": "Graden je listopadno drevo, ki zraste od 20 do 40 m visoko. Deblo gradna je močno in ravno ter ima sivo skorjo, ki ostane prvih 20 let gladka, nato pa razpoka v navpičnih brazdah. Krošnja je pravilne oblike, košata in gosta.",
+          "listi": "Listi so premenjalni in enostavni. Dolgi so 7-14 cm in široki 4-8 cm. Razdeljeni so na 5-7 listnih krp. Pri gradnu se listi, ki so v senci, jasno ločijo od tistih, ki so na soncu. Senčni listi so nežnejši in imajo več klorofila in listnih rež od sončnih. Listi so na zgornji strani svetleči in temno zeleni, na spodnji pa so svetlejši in poraščeni z dlačicami. Na vejah so nameščeni na 1,5-4 cm dolgih pecljih.",
+          "cvetovi": "Moški cvetovi so združeni v viseče in 4-6 cm dolge mačice. Ženski cvetovi rastejo v skupinah po 2-5 in tvorijo sedeče klase.",
+          "plodovi": "Gradnov želod je dolg 2-4 cm in meri v premeru do 2,5 cm. Pokriva ga skledica z gladkim robom. Dozori oktobra v prvem letu.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "quercus_pubescens": {
+          "slo": "puhasti hrast",
+          "lat": "Quercus pubescens",
+          "ita": "roverella",
+          "videz": "Drevo zraste do 20 m višine. Krošnja je razraščena in široka. Deblo ima temno sivo skorjo, ki je prečno in vzdolžno razpokana v številne majhne kvadratne ploščice.",
+          "listi": "Listi so pernato krpati, manjši kot pri ostalih hrastih, 4-10 (15) cm dolgi in 3-6 (8) cm široki. Oblika listov je močno spremenljiva. Spodnji del listne ploskve je uhljat ali klinasto zožen. Listni pecelj je kratek in puhast. Listi so na spodnji strani puhasti, na zgornji pa usnjati. Suhi listi ostanejo na drevesu vso zimo.",
+          "cvetovi": "Cvetovi se pojavijo konec maja in so enospolni. Moški cvetovi so v visečih do 6 cm dolgih mačicah rumeno zelene barve. Ženski cvetovi so posamični ali združeni v skupine po 2-5.",
+          "plodovi": "Plodovi so 2,5 cm dolgi jajčasti želodi, do polovice prekriti s skledico.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "quercus_robur": {
+          "slo": "dob",
+          "lat": "Quercus robur",
+          "ita": "farnia",
+          "videz": "Drevo ima močno deblo in obsežno krošnjo nepravilne oblike s krepkimi vejami. Njegova višina sega do 40 m visoko, v nekaterih primerih celo do 50 m. Deblo je sprva gladko in svetleče, svetlo sivkaste barve, kasneje pa ima že zelo debelo in globoko razpokano lubje, ki razkriva v spodnji plasti ozke majhne zareze temno rjavkaste barve.",
+          "listi": "Listi so dolgi do 15 cm, kratko pecljati, nežni in gladki. Na zgornji strani so temni in svetleče zeleni, na spodnji pa svetlejši. Pri odraslih rastlinah so podolgovati, narobe jajčasti in najširši v zgornji tretjini. Na dnu so nesimetrični in uhljati. Imajo 4-8 parov zaobljenih listnih krp, ki so ločene z zaokroženimi zarezami.",
+          "cvetovi": "Moški cvetovi so sedeči in združeni v 2-5 cm dolge rumene mačice. Ženski cvetovi so posamezni ali v manjših skupinah združeni v dolgopecljate klase",
+          "plodovi": "Plodovi so 5 cm dolgi, podolgovati ali elipsasti želodi s konico na vrhu in v spodnjem delu vrasli v skledico. Pritrjeni so na dolge peclje (pecljati plodovi so razlikovalni znak med dobom in gradnom).",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "salvia_officinalis": {
+          "slo": "žabelj",
+          "lat": "Salvia officinalis",
+          "ita": "salvia comune",
+          "videz": "Do 60 cm visok, dlakav polgrm ima pri dnu olesenelo steblo.",
+          "listi": "Listi so deloma vednozeleni, aromatični, enostavni, ozko eliptični, 3-8 cm dolgi, na spodnjem koncu imajo včasih dve krpi, so sivkastozeleni in bolj ali manj dlakavi.",
+          "cvetovi": "Cvetovi so dvospolni, čaša dvoustnata, venec svetlo vijoličast, redko bel ali rožnat, v venčni cevi je obroč dlačic.",
+          "plodovi": "Plod je jajčaste oblike in vsebuje zelo majhna, temnorjava semena.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "sambucus_nigra": {
+          "slo": "črni bezeg",
+          "lat": "Sambucus nigra",
+          "ita": "sambuco",
+          "videz": "Je do 7 m visok listopaden grm ali do 10 m visoko drevo. Ima okroglasto ali dežnikasto, redko krošnjo, koreninski sistem je zelo razvit in večinoma površinski. Skorja na vejah je sivorjava do sivozelena in prekrita z velikimi lenticelami, na debelejših debelcih pa je sivkasta in vzdolžno razpokana.",
+          "listi": "Listi so 10-30 cm dolgi in lihopernato sestavljeni iz 5-7 lističev. Lističi so eliptični, 6-10 cm dolgi, priostreni, po robu nazobčani, zgoraj temnejši in spodaj svetlejši.",
+          "cvetovi": "Cvetovi so dvospolni, 5-števni, drobni, beli, dišeči in združeni v široko ploščatih visečih pakobulih.",
+          "plodovi": "Plodovi so jagodasti in koščičasti; dozorijo avgusta ali septembra. Debeli so do 6 mm in so črni, bleščeči, sočni in največkrat 3-prekatni, običajno vsebujejo po tri semena. Plodovi so združeni v pakobulastih soplodjih.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "spartium_junceum": {
+          "slo": "žuka",
+          "lat": "Spartium junceum",
+          "ita": "ginestra",
+          "videz": "Do 3 m velik, široko razrasel grm s poganjki, ki so prožni, šibasti, okroglasti, zeleni in nekoliko poprhnjeni.",
+          "listi": "Listi so enostavni, suličasti, 1,5-3 cm dolgi, modrozeleni, goli, spodaj ob glavni žili dlakavi. Ti rastejo samo po mladih poganjkih in so razporejeni zelo na redko.",
+          "cvetovi": "Cvetovi so rumeni, dišeči, 2-2,5 cm veliki; jadro je veliko in nazaj zavihano.",
+          "plodovi": "Plod je 5-10 cm dolg, rjavočrn, ob straneh močno ploščat strok.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "tamarix_gallica": {
+          "slo": "navadna tamariša",
+          "lat": "Tamarix gallica",
+          "ita": "tamarice comune",
+          "videz": "Do 10 m veliko listopadno drevo s pokončnim deblom in redko, zračno krošnjo. Poganjki so tanki, šibasti, pokončni ali poševno navzgor rastoči. Skorja na deblu je rdečerjava do škrlatna in gladka.",
+          "listi": "Listi so enostavni, luskasti, jajčasto suličasti do rombasti in na dnu široki, dolgi 1-3 mm in široki 0,5-1 mm, sivo- do modrozeleni.",
+          "cvetovi": "Cvetovi rastejo v gostih, 3-5 cm dolgih, valjastih, klasastih grozdih. Posamezni cvetovi so dvospolni, zvezdasti, 2-3 mm široki.",
+          "plodovi": "Plod je 3-4 mm dolga, ozko poglavata, 3-delna, svetlo rožnata glavica, v kateri je več semen, ki so obrasla s šopkom drobnih dlačic.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "viburnum_lantana": {
+          "slo": "dobrovita",
+          "lat": "Viburnum lantana",
+          "ita": "viburno lantana",
+          "videz": "Dobrovita je listopaden grm, ki doseže do 5 m višine. Na poganjkih je skorja gosto porasla z zvezdastimi dlačicami, ki pozneje odpadejo, na debelejših deblih je rjavkasta in plitvo ter vzdolžno razpokana.",
+          "listi": "Listi so enostavni, eliptični ali jajčasti in kratkopecljati, običajno 5-12 cm dolgi in navzkrižno razporejeni. Zgoraj so temno zeleni in redko dlakavi, spodaj pa gosto dlakavi in sivi.",
+          "cvetovi": "Dvospolni cvetovi so 6-8 mm široki, rumenobele barve in rahlo dišeči. Ponavadi so cvetovi združeni v velike, 5-10 cm široke, goste pakobule.",
+          "plodovi": "Koščičasti plodovi so jajčasti in sploščeni, do 9 mm dolgi, sprva zeleni, nato rdeči in nazadnje črni. Vsebujejo eno koščico.",
+          "viri": [],
+          "viri_slike": {}
+        }
+      }
+    },
+    "park_greg_trub": {
+      "name": "Park Gregorčič-Trubar",
+      "plants": {
+        "acacia_dealbata": {
+          "slo": "srebrnasta akacija, mimoza",
+          "lat": "Acacia dealbata",
+          "ita": "mimosa",
+          "videz": "Do 15 (30) m veliko vednozeleno drevo ima robate poganjke.",
+          "listi": "Listi so dvakrat sestavljeni, vsak list ima stotine drobnih, do 5 mm dolgih in 1 mm širokih, srebrno belo dlakavih lističev.",
+          "plodovi": "Cvetovi so združeni v številnih, drobnih, okroglastih, dišečih rumenih glavicah, ki so združene v bujna socvetja. Cveti od januarja do marca.",
+          "cvetovi": "Plod je strok.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "aesculus_hippocastanum": {
+          "slo": "navadni divji kostanj",
+          "lat": "Aesculus hippocastanum",
+          "ita": "ippocastano",
+          "videz": "Do 30 m visoko in do 1 m debelo listopadno drevo ima največkrat kratko deblo in gosto, pravilno, široko razvejeno okroglasto krošnjo. Veje so debele, a krhke. Koreninski sistem je dobro razvit in večinoma površinski, glavna korenina je šibka, močne so stranske korenine.",
+          "listi": "Navzkrižno razporejeni listi so dlanasto sestavljeni iz 5-7 lističev, ki so skupaj pritrjeni na 15-20 cm dolg pecelj. Lističi so podolgovato narobe jajčasti, kratko zašiljeni, 10-25 cm dolgi in do 10 cm široki, sedeči, po robu nažagani.",
+          "cvetovi": "Cvetovi so beli in združeni v pokončna, 20-30 cm dolga latasta socvetja, v katerih so moški, ženski in dvospolni cvetovi. Cvet je do 2 cm širok, ima 5 zraslih časnih listov in 5 belih, pogosto rdeče pegastih, neenakih, zmečkanih, po robu valovitih venčnih listov, 5-8 dolgih prašnikov in pestič s 3-delno plodnico.",
+          "plodovi": "Plodovi so 5-6 cm debele, okrogle, zelene glavice z redkimi bodicami. Zrele razpadejo na tri dele, v vsakemu plodu so 1-3 bleščeča, okroglasta, nekoliko ploščata, kostanjevo rjava semena z značilno belo liso.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "amorpha_fruticosa": {
+          "slo": "amorfa",
+          "lat": "Amorpha fruticosa",
+          "ita": "falso indaco",
+          "videz": "Listopaden grm z redko krošnjo, ki zraste do 3 m. Vsako zimo odmre majhen del na koncu poganjka.",
+          "listi": "Listi so do 30 cm dolgi, lihopernato sestavljeni iz 9-30 lističev, ki so eliptični, 1,5-4 cm dolgi, goli.",
+          "cvetovi": "Cvetovi so združeni v 15-20 cm dolge, dvojne grozde, modrikaste do rdečkaste barve, prašniki so živo rumeni. Cveti julija in avgusta.",
+          "plodovi": "Plod je droben, majhen strok, ki še dolgo pozimi ostane na grmu.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "aronia_melanocarpa": {
+          "slo": "aronija",
+          "lat": "Aronia melanocarpa",
+          "ita": "aronia",
+          "videz": "Aronija je bujno rastoči grm, ki zraste 1-3 m v višino, lahko pa se ga oblikuje tudi v manjše drevo. V naravi raste aronija največkrat v vlažnih gozdovih in močvirjih.",
+          "listi": "Suličasti listi so svetlo zeleni, jeseni postanejo rdečkasti ali oranžni.",
+          "cvetovi": "Cvetovi so petštevni, rožnato beli in združeni v velika grozdasta socvetja.",
+          "plodovi": "Plodovi so majhni, črni in združeni v grozdasta soplodja.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "betula_pendula": {
+          "slo": "navadna breza",
+          "lat": "Betula pendula",
+          "ita": "betulla bianca",
+          "videz": "Navadna breza je listopadno drevo z redko, ozko stožčasto in v starosti širšo, večkrat nepravilno krošnjo. Drevo je do 30 m visoko in do 0,6 m debelo. Skorja je na deblu in večjih vejah belo obarvana. Spodnji del debla v teku let potemni in razpoka.",
+          "listi": "Listi navadne breze so dolgi 4-7 cm in široki 2-4 cm. So enostavni, rombasti in po robu dvakrat ostro nažagani. Tako kot pecelj, ki je dolg 3 cm, so listi večinoma goli. Mladi listi so nekoliko lepljivi.",
+          "cvetovi": "Cvetovi so moški in ženski, ženski so brez perianta. Moški cvetovi imajo neznaten periant, po trije rastejo v zalistju podpornega lista in tvorijo 3-6 cm dolga viseča klasasta socvetja.",
+          "plodovi": "Soplodja dozorijo nekje v mesecu juliju ali avgustu. Plodovi so precej lahki in do 2 mm veliki krilati oreški.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "celtis_australis": {
+          "slo": "navadni koprivovec",
+          "lat": "Celtis australis",
+          "ita": "bagolaro",
+          "videz": "Drevo je visoko tudi do 25 m, debelo do 2 m, lahko dočaka do 2000 let. Navadni koprivovec ima široko, okroglasto in zračno krošnjo. Deblo se od krošnje proti tlom nesorazmerno hitro debeli, tako da se ob tleh precej razširi. Skorja je gladka, svetlo sive barve, spominja na bukovo; pri starejših drevesih je lubje drobno razpokano.",
+          "listi": "Listi so premenjalno nameščeni, enostavni, podolgovato jajčasti, zašiljeni, 5-15 cm dolgi in 3-6 cm široki. Rob je 1- do 2-krat nažagan; listi so zgoraj temno zeleni in grobi, spodaj in po peclju rahlo dlakavi.",
+          "cvetovi": "Rastlina je enodomna in vetrocvetna; cveti med aprilom in majem hkrati z olistanjem. Cvetovi so dvospolni, včasih tudi enospolni z nerazvitim pestičem, drobni, slabo opazni in pecljati, cvetno odevalo je neznatno 4-6 -števno, prašnikov je 4-6.",
+          "plodovi": "Plodovi so koščičasti, premera 1-1,2 cm, sprva zeleni, nato rumeni, ko dozorijo vijoličastočrni. Imajo razbrazdano koščico in so užitni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cercis_siliquastrum": {
+          "slo": "judeževec",
+          "lat": "Cercis siliquastrum",
+          "ita": "albero di Giuda",
+          "videz": "Judeževec je do 12 m visoko listopadno drevo, ki ima široko razraslo krošnjo. Zanj je značilno, da je skorja skoraj črna, plitveje je prečno razpokana in v razpokah rdečkasta.",
+          "listi": "Listi so enostavni, okroglasti, dolgopecljati, 5-12 cm dolgi in do 9 cm široki, celorobi, pri osnovi globoko ledvičasti oz. srčasti in goli. Zgoraj so temnozeleni, spodaj svetlejši. Pecelj in žile so navadno rdečkaste barve.",
+          "cvetovi": "Dvospolni cvetovi rastejo v kratkih gozdih po 4-10; so pecljati, do 2 cm dolgi, škrlatni in občasno rožnati, 5-števni, metuljasti, imajo 10 prašnikov in eno plodnico.",
+          "plodovi": "Plodovi so 7-10 cm dolgi, ploščati, zašiljeni in rdečkasto rjavi stroki, ki pogosto ostanejo na drevesu še dolgo v zimo. V njih najdemo ploščata, zelo trda, do 4 mm dolga, rjava semena.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "chaenomeles_japonica": {
+          "slo": "navadna japonska kutina",
+          "lat": "Chaenomeles japonica",
+          "ita": "cotogno giapponese",
+          "videz": "Je do največ 1 m visok listopaden grm s trnatimi in močno dlakavimi poganjki.",
+          "listi": "Listi so široko jajčasti, 3-5 cm dolgi, po robu grobo nažagani, prilisti eliptični, nažagani, do 2 cm veliki.",
+          "cvetovi": "Cvetovi so opečnato rdeči, do 3 cm široki.",
+          "plodovi": "Plodovi so užitni, trdi, okroglasti, 3-4 cm debeli, rumeni in s temnimi pikami.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "chamaerops_humilis": {
+          "slo": "evropska palma",
+          "lat": "Chamaerops humilis",
+          "ita": "palma di San Pietro",
+          "videz": "Evropska palma je počasi rastoča, grmasta rastlina, ki v višino doseže 100 do 120 cm.",
+          "listi": "Listi so široki, sestavljeni, pahljačasti, togi in pokončni, podprti z dolgimi trnovimi peclji, zbranimi v šopih na vrhu stebla; na zgornji strani so zeleni, na spodnji pa skoraj beli.",
+          "cvetovi": "Običajno je dvodomna rastlina z moškimi in ženskimi cvetovi na ločenih rastlinah. Cvetovi so združeni v velika latasta socvetja rumene barve.",
+          "plodovi": "Koščičasti plodovi z mesnatim, vlaknastim osemenjem, so okrogli ali podolgovati, 12–45 mm veliki, sladki, v zgodnjih fazah zeleni, pozneje rdečkasto rumeni do rjavi.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cydonia_oblonga": {
+          "slo": "navadna kutina",
+          "lat": "Cydonia oblonga",
+          "ita": "cotogno",
+          "videz": "Navadna kutina je do 8 m visoko listopadno drevo ali grm s široko okroglasto krošnjo. S skorje se luščijo ploščati kosi lubja.",
+          "listi": "Listi so premenjalno nameščeni, enostavni, jajčasti do eliptični, 5-10 cm dolgi, 4-8 cm široki, celorobi. Zgoraj so gladki, spodaj pa dlakavi.",
+          "cvetovi": "Žužkocvetna vrsta, ki cveti pozno, šele maja in junija. Dvospolni cvetovi so večinoma posamezni, 4-5 cm široki. Venčnih listov je 5 in so rožnati ali beli. Tudi čašnih listov je 5. Ti so nazaj navihani in ostanejo na plodu do zrelosti.",
+          "plodovi": "Plod, ki ga imenujemo kar kutina, je po obliki podoben jabolku ali hruški, 4-12 cm dolg, rumen in dlakav. Meso je trdo in polno kamenih celic. Kuhan plod postane okusen, aromatičen in užiten.",
+          "zanimivosti": "Plod navadne kutine so gojili v Babilonu že pred 4000 leti, dobro so ga poznali tudi stari Rimljani. Kot simbol ljubezni in sreče je bil posvečen Veneri.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "jasminum_nudiflorum": {
+          "slo": "goli jasmin",
+          "lat": "Jasminum nudiflorum",
+          "ita": "gelsomino d’inverno",
+          "videz": "Do 3 m velik, listopaden, pogosto plezajoč ali široko raraščajoč grm ima zelene, v prerezu štirikotne poganjke. ",
+          "listi": "Listi so trojnati, lističi 1-3 cm dolgi in bleščeči. ",
+          "cvetovi": "Cvetovi ne dišijo in so rumeni, posamezno rastoči na lanskih poganjkih. Cveti zgodaj spomladi. Doma je s Kitajske.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "juglans_regia": {
+          "slo": "navadni oreh",
+          "lat": "Juglans regia",
+          "ita": "noce bianco",
+          "videz": "Navadni oreh je do 30 m visoko listopadno drevo z okroglasto krošnjo. Skorja je svetlo siva, sprva gladka, s časom razpoka. Brsti so jajčasti, prekriti s sivo rjavimi žametastimi luskolisti.",
+          "listi": "Premenjalno nameščeni listi so lihopernato sestavljeni in dolgi 20-50 cm. Sestavljeni so iz 5-9 eliptičnih in bleščečih lističev, med katerimi je vršni največji. Ob dotiku so lističi prijetno dišeči.",
+          "cvetovi": "Moški cvetovi so združeni v zelenkaste, 6-12 cm dolge, viseče mačice, ki se razvijejo iz lateralnih brstov; imajo 5-40 prašnikov in skoraj nevidno cvetno odevalo. Ženski cvetovi se razvijejo posamič ali po nekaj skupaj na koncu letošnjih poganjkov. Plodnica je enosemenska, sestavljena iz dveh zraslih listov.",
+          "plodovi": "Plod je okroglaste oblike, 4-6 cm debel. Sestavljen je iz trde koščice, ki je obdana z zeleno kožico. Seme (‘jedrce’) je užitno.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "juglans_nigra": {
+          "slo": "črni oreh",
+          "lat": "Juglans nigra",
+          "ita": "noce nero",
+          "videz": "Črni oreh je do 50 m visoko drevo; skorja je skoraj črna, po njej ime rastline.",
+          "listi": "Listi so premenjalno nameščeni, 30-60 cm dolgi, lihopernato sestavljeni iz 9-25 podolgovato jajčastih, zašiljenih, 6-12 cm dolgih, aromatičnih lističev. Terminalni listič je manjši od drugih, pogosto tudi manjka.",
+          "cvetovi": "Črni oreh je enodomna rastlina. Moški cvetovi so zelenkasti, brez cvetnega odevala in z mnogimi prašniki. Ti so združeni v viseče mačice, ki so dolge 8-12 cm. Ženski cvetovi rastejo v skupinah 2-5.",
+          "plodovi": "Koščičasti plodovi so okrogli in 4-5 cm debeli. Zunanji mesnati zelo nerad odpade s koščice in razpade kar na njej. Koščica (‘oreh’) je okroglasta, črna, trda in debela ter drobno, nepravilno razbrazdana.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "kerria_japonica": {
+          "slo": "japonska kerija",
+          "lat": "Kerria japonica",
+          "ita": "kerria / rosa del Giappone",
+          "videz": "Kerija je do 3 m velika listopadna grmovnica. Tudi še 2 ali 3 leta stari poganjki so zelene barve.",
+          "listi": "Listi so podolgovato eliptični, 3-6 cm dolgi, dvakrat grobo nažagani in zašiljeni.",
+          "cvetovi": "Cvetovi so živorumene barve in gosto porasejo grm. Sorta ‘Pleniflora’ ima vrstnate (polne) cvetove.",
+          "plodovi": "Plodovi so suhe, do 5 mm drobne rožke.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ligustrum_lucidum": {
+          "slo": "bleščeča kalina",
+          "lat": "Ligustrum lucidum",
+          "ita": "ligustro lucido",
+          "videz": "Bleščeča kalina je vednozeleno drevo ali grm, ki zraste do 10 m visoko. Krošnja je okroglasta ali ovalna, zelo razraščeno in gosta. Skorja je sprva gladka, s starostjo razpoka in sivi.",
+          "listi": "Listi so navzkrižno razporejeni, enostavni, jajčasto suličasti in zašiljeni. Dolgi so 7-12 cm in široki 3-7 cm. So vednozeleni in bleščeči, spodaj svetlejši.",
+          "cvetovi": "Cvetovi so združeni v bele, dišeče late, ki so dolgi 10-20 cm. Imajo zvonasto čašo in bel lijast venec.",
+          "plodovi": "Plodovi so do 1 cm velike, ovalne ali okrogle, modročrne, večsemenske jagode.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "liquidambar_styraciflua": {
+          "slo": "ameriški ambrovec",
+          "lat": "Liquidambar styraciflua",
+          "ita": "liquidambar",
+          "videz": "Ameriški ambrovec je listopadno drevo, visoko 25 m, le redkeje zraste do 40 m. Deblo je debelo 1 m. Skorja na njem je sivkastorjava in globoko razpokana. Krošnja je mogočna, široka in stožčasta.",
+          "listi": "Listi so premenjalno razporejeni in dlanasto krpati. Spominjajo na liste javorja. Vsak list ima 5-7 krp, je dolg 10-18 cm in raste na 6-12 cm dolgem peclju. Po robu je drobno nažagan. Zgornja ploskev je temno zelena, bleščeča in gola, spodnja pa je svetlejša in ob vznožju žil dlakava. Listi se jeseni obarvajo rdečkasto, rumenkasto, oranžno ali vijolično in dolgo ostanejo na drevesu.",
+          "cvetovi": "Cvetovi so enospolni, drobni in težko opazni. Moški cvetovi so združeni v pecljate, zelene glavice, ki so gosto prekrite s prašniki. Ženski cvetovi so združeni v rumenkaste viseče glavice.",
+          "plodovi": "Plodovi imajo 1 ali 2 okriljeni sameni. Združeni so v dolgopecljata, glavičasta, viseča soplodja. Plodovi dozorijo oktobra in na drevesu ostanejo še vso zimo.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "mahonia_aquifolium": {
+          "slo": "navadna mahonija",
+          "lat": "Mahonia aquifolium",
+          "ita": "uva dell’ Oregon",
+          "videz": "Navadna mahonija je do 1 m visok vednozeleni grm.",
+          "listi": "Listi so dolgi do 20 cm in lihopernato sestavljeni iz 5-9 lističev. Na dnu je listna ploskev zaokrožena. Zgoraj temni in bleščeči. Po robu se na vsaki strani lista najde 5- 15 trnov.",
+          "cvetovi": "Cvetovi so rumene barve, rastejo v grozdastih socvetjih in cvetijo maja.",
+          "plodovi": "Plodovi so okrogle in modre jagode premera 7-8 mm. Jagode dozorijo septembra in ostanejo na vejah do zime.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "nerium_oleander": {
+          "slo": "oleander",
+          "lat": "Nerium oleander",
+          "ita": "oleandro",
+          "videz": "Oleander je vednozeleni grm, ki zraste do višine 5 m.",
+          "listi": "Listi rastejo v vretencih po 3 ali 4. So enostavni in ozko suličasti, dolgi 6-15 cm, usnjati, goli in celorobi. Večkrat je rob spodvihan.",
+          "cvetovi": "Cvetovi so dvospolni. Navadno so bledo rožnati, redkokdaj beli. Pri okrasnih sortah so lahko tudi rdeči. Rastejo v grozdastih latih. Široki so 3-5 cm.",
+          "plodovi": "Plodovi so 15 cm dolgi mešički z gostodlakavimi semeni.",
+          "zanimivosti": "Oleander je zelo strupena in smrtno nevarna rastlina. Največ strupa je v skorji in listih.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "philadelphus_coronarius ": {
+          "slo": "navadni skobotovec",
+          "lat": "Philadelphus coronarius ",
+          "ita": "fior d’angelo",
+          "videz": "Navadni skobotovec je pokončen grm, ki zraste do 3 m v višino.",
+          "listi": "Listi so enostavni, jajčasti, navzkrižno razporejeni, zašiljeni in rahlo nazobčani. Dolgi so 4-8 cm.",
+          "cvetovi": "Cvetovi so 4-števni, dvospolni, beli, 2,5-3,5 cm široki in zelo lepo dišeči.",
+          "plodovi": "Plod je do 1 cm dolga, štiridelna glavica.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "populus_nigra": {
+          "slo": "črni topol",
+          "lat": "Populus nigra",
+          "ita": "pioppo nero",
+          "videz": "Črni topol je do 35 m visoko in do 3 m debelo listopadno drevo s široko, dobro razvejeno, redko krošnjo, ki v starosti postane vrzelasta. Skorja starejših dreves je temno sive barve in globoko razbrazdana.",
+          "listi": "Listi so premenjalno razporejeni, enostavni, goli, jajčasto trikotni do rombasti, 5-10 cm dolgi in 3-6 cm široki, na vrhu zašiljeni in po robu fino nažagani, zgoraj temni in spodaj svetlejši. Pecelj je sploščen, pogosto rdečkast in 2-6 cm dolg.",
+          "cvetovi": "Cvetovi so enospolni in na ločenih drevesih, brez cvetnega odevala, moški imajo 20-30 škrlatno rdečih prašnikov, ženski so zelenkasti, imajo plodnico iz 2 plodnih listov in 2 brazdi. Cvetovi so združeni v mačice. Moške mačice so dolge 4-6 cm, ženske pa so pecljate in dolge 10-15 cm.",
+          "plodovi": "Plodovi so večsemenske, jajčaste in zašiljene, 7-9 mm dolge, zelene in gole glavice. V začetku poletja razpadejo na dva dela, v njih so do 1,5 mm velika in z gostimi, belimi volnatimi dlačicami obrasla semena.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "populus_nigra_italica": {
+          "slo": "jagned, laški topol",
+          "lat": "Populus nigra ‘Italica’",
+          "ita": "pioppo cipressino",
+          "videz": "Laški topol je ozko stebrasta, do 40 m visoka in do 1 m debela sorta črnega topola z nekoliko manjšimi listi. Lubje je črno, razpokano in razbrazdano.",
+          "listi": "Listi so premenjalno razporejeni, enostavni, goli, trikotni do rombasti, 5-7 cm dolgi in 4-6 cm široki, na vrhu zašiljeni in po robu fino nažagani, zgoraj temni in spodaj svetlejši. Pecelj je 2-6 cm dolg.",
+          "cvetovi": "Cvetovi so enospolni in na ločenih drevesih, brez cvetnega odevala, moški imajo 20-30 škrlatno rdečih prašnikov, ženski so zelenkasti, imajo plodnico iz 2 plodnih listov in 2 brazdi. Cvetovi so združeni v mačice. Moške mačice so dolge 4-9 cm, ženske pa so pecljate in daljše.",
+          "plodovi": "Plodovi so večsemenske, jajčaste in zašiljene, 7-9 mm dolge, zelene in gole glavice. V začetku poletja razpadejo na dva dela, v njih so do 1,5 mm velika in z gostimi, belimi volnatimi dlačicami obrasla semena.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "prunus_avium": {
+          "slo": "divja češnja",
+          "lat": "Prunus avium",
+          "ita": "ciliegio selvatico",
+          "videz": "Divja češnja zraste do 25 m visoko in običajno ne preseže 0,8 m v premeru. Redko preseže starost 100 let. Ko doseže starost okoli 60 let, preneha rasti v višino in les začne počasi trohneti. Deblo poteka pogosto skoraj do vrha. Skorja divje češnje je rjavosiva ali svetlosiva in tanka. Pri starejših drevesih se lubje lušči v trakovih, skorja pa razpoka. Koreninski sistem se prilagodi globini gozdnih tal.",
+          "listi": "Listi so premenjalno razporejeni, enostavni, podolgovato jajčasti ali eliptični, po robu nepravilno nažagani, spodaj so najprej dlakavi, pozneje goli, dlačice se ohranijo samo ob žilah. Dosežejo dolžino do 12 cm. Na vrhu peclja sta dve jasno vidni rdeči žlezi.",
+          "cvetovi": "Divja češnja cveti aprila in maja ter se istočasno olista. Cvetovi so bele barve in po 2-3 združeni v sedeče kobule.",
+          "plodovi": "Koščičasti plodovi, češnje, dozorijo sredi poletja in so manjši kot pri domači češnji.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "prunus_laurocerasus": {
+          "slo": "navadni lovorikovec",
+          "lat": "Prunus laurocerasus",
+          "ita": "lauroceraso",
+          "videz": "Lovorikovec je do 2 m visok vednozelen grm.",
+          "listi": "Listi so podolgovato eliptični, enostavni, dolgi 5-15 cm, bleščeči, usnjati in temno zelene barve.",
+          "cvetovi": "Cvetovi so beli, drobni in združeni v 5-12 cm dolge grozde.",
+          "plodovi": "Plodovi so okroglasti, 8 mm debeli, črni, bleščeči in strupeni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "punica_granatum": {
+          "slo": "granatno jabolko",
+          "lat": "Punica granatum",
+          "ita": "melograno",
+          "videz": "Granatno jabolko je košat grm ali manjše listopadno drevo, ki pogosto zraste 2-4 m visoko. Veje so rahlo 4-robe in trnate, gojena sorta pa je brez trnov.",
+          "listi": "Listi so enostavni, podolgovato jajčasti do suličasti, 2-8 cm dolgi.",
+          "cvetovi": "Cvetovi so dvospolni 3 cm široki in škrlatno rdeče obarvani, rdeče barve je tudi čaša.",
+          "plodovi": "Plod je okroglast, 6-8 cm debel, na njem najdemo ostanek čaše; je rdečkasto rumen do rjav in vsebuje mnogo semen, katerih zunanja plast je sočna in polna vitaminov.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "pyrus_calleryana": {
+          "slo": "okrasna hruška",
+          "lat": "Pyrus calleryana",
+          "ita": "pera callery",
+          "videz": "Okrasna hruška je listopadno drevo s piramidalno krošnjo in pokončnimi vejami, ki zraste 5-6 m visoko.",
+          "listi": "Listi so jajčasti, usnjati, svetleči, svetlo zelene barve. Jeseni prevzamejo rumene, oranžne in rdeče tone.",
+          "cvetovi": "Dvospolni cvetovi so številni, beli, 5-števni in združeni v grozdasta socvetja.",
+          "plodovi": "Plodovi so majhne in okroglaste hruškice.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "rubus_fruticosus": {
+          "slo": "robida vrsta brez trnov",
+          "lat": "Rubus fruticosus",
+          "ita": "rovo senza spine",
+          "videz": "Ta posebna, do 2 m visoka listopadna robida, nima trnov. Edini trni, upognjeni, so prisotni na pokončnih ali lokasto upognjenih poganjkih.",
+          "listi": "Listi so lihopernato sestavljeni iz 3-5 lističev. Posamezni lističi so eliptični do narobe jajčasti, po robu neenakomerno nazobčani, zgoraj gladki in temno zeleni, spodaj dlakavi in skoraj beli.",
+          "cvetovi": "Cvetovi so bele ali rožnate barve in združeni v končne late.",
+          "plodovi": "Birni plod je sočen, gol, temno moder ali črn, užiten.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "sequoia_sempervirens": {
+          "slo": "obalna sekvoja",
+          "lat": "Sequoia sempervirens",
+          "ita": "sequoia sempreverde",
+          "videz": "Obalna sekvoja je vednozeleno iglasto drevo, ki zraste do 110 m v višino in do 8 m v širino. Krošnja je ozka in stožčasta. Deblo je pri dnu odebeljeno, skorja je rdečerjava, vzdolžno globoko razbrazdana, do 30 cm debela.",
+          "listi": "Iglice so dolge 6-18 mm in široke do 2 mm. So ploščate, zašiljene, ne bodeče, luskaste in prilegle k poganjku. Zgoraj so temno zelene in bleščeče, spodaj imajo dve beli progi listin rež. Spominjajo na iglice tise ali jelke.",
+          "cvetovi": "Cvetovi se delijo na moške, ki rastejo v skupinah po 1- 3, ter na ženske cvetove, ki rastejo na starejših kratkih poganjkih.",
+          "plodovi": "Plodovi so storži, ki dozorijo konec jeseni. So jajčaste ali ovalne oblike, dolgi do 2,5 cm in rjavi.",
+          "zanimivosti": "Sekvoja zraste najvišje med vsemi drevesnimi vrstami.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "viburnum_tinus": {
+          "slo": "zimzelena brogovita",
+          "lat": "Viburnum tinus",
+          "ita": "viburno tino",
+          "videz": "Vednozelen, do 3 m velik in zelo gosto raščen grm ima dlakave poganjke. Raste na suhih in vročih sredozemskih rastiščih, slabše pa prenaša nizko temperaturo.",
+          "listi": "Listi so enostavni, podolgovato eliptični, zašiljeni ali topi, 3-10 cm dogi, zgoraj večinoma goli, temni in s svetlejšimi žilami, usnjati in bleščeči, spodaj svetlejši in po žilah ter v njihovih pazduhah dlakavi.",
+          "cvetovi": "Cvetovi so beli, dišeči, do 9 mm široki in združeni v kobulasta socvetja, široka 4-9 cm.",
+          "plodovi": "Koščičasti plodovi so jajčasti, proti vrhu zoženi, temno modri in s kovinskim bleskom.",
+          "viri": [],
+          "viri_slike": {}
+        }
+      }
+    },
+    "parc_kmet_sola": {
+      "name": "Parcela kmetijske šole",
+      "plants": {
+        "acer_campestre": {
+          "slo": "maklen, poljski javor",
+          "lat": "Acer campestre",
+          "ita": "acero campestre",
+          "videz": "Je listopadno drevo visoko do 20 m in do 50 cm debelo. Poganjki so svetlo rjavi, tanki in goli, na njih se pogosto tvorijo plutasta rebra. Skorja na deblu je drobno mrežasto razpokana, sprva rjavkasta, pozneje rjava do temnorjava.",
+          "listi": "Listi so razmeroma majhni, 5-10 cm široki in 3-7 cm dolgi, dlanasto krpati ali dlanasto deljeni. Med 5 listnimi krpami so srednje 3 največje, vrh lista je top. Listi so sprva dlakavi, nato zgoraj goli in temnejši, spodaj svetlejši in goli ali fino dlakavi. Pecelj je rdečkast do 10 cm dolg.",
+          "cvetovi": "Maklen je žužkocvetna vrsta, ki cveti konec aprila ali maja hkrati z olistanjem. Cvetovi so majhni in rumenozeleni, po 10-20 združeni v rumenkastozelena češuljasta socvetja. Lahko so  dvospolni, moški ali ženski.",
+          "plodovi": "Krilata plodiča rasteta pod kotom 180°, sta rdečkaste barve, kratko dlakava ali gola.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ailanthus_altissima": {
+          "slo": "visoki pajesen",
+          "lat": "Ailanthus altissima",
+          "ita": "ailanto, albero del paradiso",
+          "videz": "Visoki pajesen je do 25 m visoko listopadno drevo. Deblo je ravno, njegova krošnja pa okroglasta. Skorja je na deblu tanka, razmeroma gladka in ima belkaste vzdolžne razpoke, korenine so plitve, vendar razvite po veliki površini.",
+          "listi": "Listi so podolgovato eliptični, na vrhu zašiljeni, pri dnu listne ploskve zaokroženi, celorobi, v spodnjem delu imajo včasih 1-3 tope krpice z značilno žlezo. Zmečkani neprijetno dišijo. Dolgi so 6-12 cm, široki pa 2,5-4 cm. Glavna listna žila ne poteka po sredini lista, tako da se list deli v dva neenaka dela. Zgoraj so listi temno zeleni, spodaj pa svetlejši.",
+          "cvetovi": "Cvetovi so eno- ali dvospolni, 7-8 mm široki, belorumeni in združeni v terminalne, 10-25 cm dolge late. Moški cvetovi imajo 10 prašnikov, dvospolni le 5.",
+          "plodovi": "Plodovi so 3-4 cm dolgi, do 1 cm široki oreški. Zreli plodovi so svetlo rdečkastorjavi, in so združeni v gostih soplodjih.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cedrus_deodara": {
+          "slo": "himalajska cedra",
+          "lat": "Cedrus deodara",
+          "ita": "cedro deodara",
+          "videz": "Himalajska cedra je vednozeleno iglasto drevo, ki zraste do 50 m v višino in do 3 m v širino. Pri mlajših drevesih je krošnja valjaste oblike, s staranjem pa prehaja v stožčasto obliko s povešenim vrhom. Veje se iz debla izraščajo vodoravno, njihovi konci pa so prav tako povešeni. Skorja je sprva svetlejša in gladka, s starostjo pa razpoka in potemni.",
+          "listi": "Iglice so dolge 3-5 cm in so med cedrami najdaljše. So zelene do zelenomodre barve, tanke, zašiljene in mehke. Na drevesu ostanejo za dve ali tri leta.",
+          "cvetovi": "Cvetovi so pokončni in združeni v moška in ženska socvetja. Moška socvetja so valjasta, dolga 4-7 cm in rumenkasta ter sestavljena iz mnogih prašnikov. Ženska socvetja so krajša, zelena in slabo opazna.",
+          "plodovi": "Plodovi so rdečerjavi, ovalni, na vrhu zaobljeni storži, ki zrastejo do 10 cm v višino in do 6 cm v širino. Med zorenjem so modrikasti. Storž sestavljajo gole in na gosto poraščene plodne luske s po dvema trikotnima krilatima semenoma. Plod nikoli ne odpade, vendar razpade na drevesu v začetku zime.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "cercis_siliquastrum": {
+          "slo": "judeževec",
+          "lat": "Cercis siliquastrum",
+          "ita": "albero di giuda",
+          "videz": "Judeževec je do 12 m visoko listopadno drevo, ki ima široko razraslo krošnjo. Zanj je značilno, da je skorja skoraj črna, plitveje je prečno razpokana in v razpokah rdečkasta.",
+          "listi": "Listi so enostavni, okroglasti, dolgopecljati, 5-12 cm dolgi in do 9 cm široki, celorobi, pri osnovi globoko ledvičasti oz. srčasti in goli. Zgoraj so temnozeleni, spodaj svetlejši. Pecelj in žile so navadno rdečkaste barve.",
+          "cvetovi": "Dvospolni cvetovi rastejo v kratkih gozdih po 4-10; so pecljati, do 2 cm dolgi, škrlatni in občasno rožnati, 5-števni, metuljasti,  imajo 10 prašnikov in eno plodnico.",
+          "plodovi": "Plodovi so 7-10 cm dolgi, ploščati, zašiljeni in rdečkasto rjavi stroki, ki pogosto ostanejo na drevesu še dolgo v zimo. V njih najdemo ploščata, zelo trda, do 4 mm dolga, rjava semena.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "diospyros_kaki": {
+          "slo": "kaki",
+          "lat": "Diospyros kaki",
+          "ita": "cachi",
+          "videz": "Kaki je do 14 m visoko listopadno drevo s široko, okroglasto, pravilno, gosto krošnjo. Deblo je večinoma ravno, skorja je rdečkastorjave ali rahlo rdečkaste barve.",
+          "listi": "Listi so enostavni, jajčasto eliptični, 8-20 cm dolgi, 4-9 cm široki, celorobi, zgoraj temno zeleni in bleščeči, spodaj svetlejši.",
+          "cvetovi": "Cvetovi so enospolni, do 3 cm široki in večinoma 4-števni. Rastejo v skupinah po 3.",
+          "plodovi": "Plod je okroglasta, rahlo sploščena, 5-8 cm debela, mehka, oranžna do rdeča, poprhnjena, užitna jagoda, ki vsebuje do 10 rjavih semen.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "laurus_nobilis": {
+          "slo": "lovor",
+          "lat": "Laurus nobilis",
+          "ita": "alloro",
+          "videz": "Lovor je značilni zimzeleni grm, ki raste pretežno ob sredozemski obali. Njegova krošnja lahko doseže višino 10-15 m. Z lahkoto ga prepoznamo zaradi značilnega vonja. Večkrat ga uporabljamo kot začimbo.",
+          "listi": "Lovorjevi listi so podolgovati, suličasti, priostreni in dolgi 5-12 cm. Zgornja stran lista je bleščeča, usnjata, temno zelene barve, spodnja stran pa je svetlejša in se ne svetlika. Zanje je tudi značilno, da imajo kratek pecelj in rahlo valovit rob.",
+          "cvetovi": "Lovor cveti od februarja do aprila. Njegovi cvetovi so zelenkasto-rumene barve. Cvetovi so enospolni, to pomeni, da razlikujemo ženske cvetove od moških. Lovor je dvodomna rastlina, to pomeni, da na isti rastlini ni moških in ženskih cvetov.",
+          "plodovi": "Lovorjevi plodovi se razvijejo le iz ženskih cvetov; iz njih nastane temno modra, sočna jagoda.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ligustrum_vulgare": {
+          "slo": "navadna kalina",
+          "lat": "Ligustrum vulgare",
+          "ita": "ligustro comune",
+          "videz": "Navadna kalina je do 3 m visok listopaden grm. Njena skorja je na mladih poganjkih gola, sivorjava in večkrat posuta z lenticelami, na debelejših deblih pa potemni in plitvo vzdolžno razpoka.",
+          "listi": "Listi so enostavni, podolgovato suličasti, nekoliko usnajti in celorobi, kratkopecljati, dolgi do 7 cm in široki do 3 cm. Zanje je značilno, da ob milih zimah ostanejo pritrjeni na vejah precej dolgo časa.",
+          "cvetovi": "Dvospolni drobni cvetovi so združeni v 6-8 cm dolgih, latastih socvetjih. Njihova čaša je nerazločno 4-zoba, beli venec pa je lijast in 5 mm dolg. Cvetovi oddajajo neprijeten vonj.",
+          "plodovi": "Plod je okrogla, 5-10 mm debela, bleščeča, sočna črna jagoda, ki vsebuje 2-4 rjava semena. Plodovi dozorijo med avgustom in oktobrom.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "lonicera_caprifolium": {
+          "slo": "kovačnik, kosteničevje",
+          "lat": "Lonicera caprifolium",
+          "ita": "caprifoglio comune",
+          "videz": "Do 10 m dolga, olesenela listopadna vzpenjavka, ki ima votel stržen. Kovačnik ni sposoben samostojne pokončne rasti, zato se ovija okoli debel.",
+          "listi": "Listi so lahko zelo različni. Večinoma so enostavni in širokoeliptični, 4-10 cm dolgi, kratkopecljati, zgoraj temno zeleni in spodaj modrikasti.",
+          "cvetovi": "Cvetovi so dvospolni, rumenkasti, z zelo opaznim, do 5 cm dolgim vencem, močno dišeči in združeni v sedeča socvetja na vrhu nekaj zgornjih zraščenih listnih parov.",
+          "plodovi": "Plodovi so koralno rdeči, podolgovati in do 8 mm dolgi. Jagode so strupene, povzročajo bruhanje, trebušne krče in drisko.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "morus_alba": {
+          "slo": "bela murva",
+          "lat": "Morus alba",
+          "ita": "gelso bianco",
+          "videz": "Bela murva je do 18 m visoko in do 1 m debelo listopadno drevo z okroglasto, redko in svetlo krošnjo, ki je nekoliko ožja kot pri črni murvi. Veje so krhke in se rade lomijo. Deblo je grčavo, skorja rdečkastorjava ali zelenosiva in vzdolžno razpokana.",
+          "listi": "Listi so premenjalno razporejeni, zelo variabilni, enostavni do dlanasto krpati z 2-3 krpami, podolgovati, 7-18 cm dolgi in do 8 cm široki. Na dnu listne ploskve so zaokroženi ali srčasti. Listni pecelj je daljši kot 2 cm in dlakav, zgoraj je list svetlo zelen in gol, spodaj samo po žilah dlakav. Z listi bele murve se zelo rade hranijo sviloprejke.",
+          "cvetovi": "Cvetovi so enospolni, imajo 4-delno enojno cvetno odevalo, moški imajo 4 prašnike in so združeni v pecljate, sprva pokončne in nato viseče rumene mačice. Ženski cvetovi imajo po eno plodnico s po dvema vratovoma in so združeni v pecljata, pokončna jajčasta socvetja.",
+          "plodovi": "Vsi plodovi socvetja so zrasli v mesnao soplodje. Soplodja so sprva zelena in že pred zrelostjo sladka, ob zrelosti v juniju ali juliju bela (odtod ime), rožnata ali rdeča, redkeje črnordeča. Soplodja so podolgovata in nekoliko manjša kot pri črni murvi, pecelj je približno tako dolg kot soplodje.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "morus_nigra": {
+          "slo": "črna murva",
+          "lat": "Morus nigra",
+          "ita": "gelso nero",
+          "videz": "Črna murva je do 15, izjemoma 20 m visoko listopadno drevo z močno, gosto, široko razraščeno krošnjo in kratkim, pogosto zavitim ali krivim in grčavim deblom. Skorja je temno rjava in vzdolžno razpokana, na njej so pogoste odebelitve.",
+          "listi": "Listi črne murve so enostavni, široko jajčasti, 7-18 cm dolgi in do 8 cm široki, kratko zašiljeni, na dnu listne ploskve močno srčasti in imajo dlakav, največ 2 cm dolg pecelj. Listi so pogosto 2- ali 3-krpi, zgoraj so temno zeleni in hrapavi, spodaj svetlejši in bolj fino dlakavi. Za gojenje sviloprejke ni primerna, saj se s hrapavimi listi gosenice le nerade hranijo.",
+          "cvetovi": "Cvetovi so enospolni, vendar na vejah ali celo drevesih različno razporejeni, tako da je drevo lahko enodomno ali dvodomno. Cvetovi imajo 4-delno, enojno cvetno odevalo. Moški cvetovi imajo 4 prašnike in so združeni v viseče, do 2,5 cm dolge klaske oz. mačice. Ženski cvetovi imajo po eno plodnico s po dvema vratovoma in so združeni v zelena, jajčasta socvetja.",
+          "plodovi": "Iz socvetij se razvijejo mesnata soplodja, sestavljena iz olesenelih cvetov. Soplodja so sprva zelena in vse do zrelosti kiselkasta, zrela pa črna, sočna in sladka, 2-2,5 cm dolga, kratkopecljata ali celo sedeča in večja kot pri beli murvi.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "pinus_halepensis": {
+          "slo": "alepski bor",
+          "lat": "Pinus halepensis",
+          "ita": "pino d’Aleppo",
+          "videz": "Do 20 m visoko in do 1 m debelo drevo ima krošnjo, ki je pogosto nepravilno oblikovana in svetlejša kot pri drugih sredozemskih borih. Deblo je velikokrat neravno.",
+          "listi": "Iglice rastejo po dve v šopku, so 7-15 cm dolge, tanke, zašiljene, nežne, prilegle k poganjku in usmerjene proti njegovemu koncu, ki zato spominja na čopič. Na drevesu ostanejo samo dve leti.",
+          "cvetovi": "Moška socvetja so sprva zelena, med cvetenjem pa rumena. Živordeča ženska socvetja so pokončna in rastejo na 1 cm dolgem peclju; po oprašitvi se ukrivijo navzdol.",
+          "plodovi": "Plodovi so združeni v soplodja, ki jih imenujemo storži. Zreli storži so jajčasti, 5-10 cm dolgi, 2,5-4 cm debeli in bleščeče rjavi. Imajo debele peclje in največkrat rastejo v vretencih po dva ali trije. Storži dozorijo jeseni v drugem letu, odpirati pa se začnejo šele v tretjem ali četrtem letu in še dolgo ne odpadejo.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "pinus_nigra": {
+          "slo": "črni bor",
+          "lat": "Pinus nigra",
+          "ita": "pino nero",
+          "videz": "Črni bor je do 40 m visoko in 1,3 m debelo, zimzeleno iglasto drevo. Krošnja je sprva stožčasta, v starosti pa je dežnikaste oblike. Skorja je sivočrna (ime!), debela in močno razbrazdana.",
+          "listi": "Črni bor ima v šopku po dve temnozeleni, trdi, močni, zašiljeni in bodeči, ravni ali ukrivljeni, 8-16 cm dolgi iglici.",
+          "cvetovi": "Črni bor je enodomna, vetrocvetna vrsta, ki cveti maja in v začetku junija. Moški cvetovi so združeni v podolgovata in valjasta socvetja. Ženski cvetovi so združeni v drobna, rdeča ali rjava storžasta socvetja.",
+          "plodovi": "Zreli storži so jajčasti, 4-8 cm dolgi, 2-4 cm debeli, rumenorjavi in bleščeči.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "platanus_acerifolia": {
+          "slo": "platana",
+          "lat": "Platanus acerifolia",
+          "ita": "platano comune",
+          "videz": "Do 40 m visoko listopadno drevo, ki ima mogočno, široko razvejano krošnjo in močno, ravno deblo, ki poteka vsaj do polovice krošnje. Skorja na deblu je rjavokastosiva in tanka, z nje se luščijo velike ploščice lubja, pod katerimi se kažejo značilne rumenkaste lise. Poganjki so rjavkasti ali zelenkasti in gosto dlakavi, brsti do 7 mm dolgi, rdečerjavi, z rahlo ukrivljenim vrhom.",
+          "listi": "Premenjalno nameščeni listi so dlanasto krpati, 3-5 krpi, zareze med krpami so srednje globoke, srednja krpa je približno enako dolga in široka. List je 12-25 cm širok in odrasel večinoma gol, pecelj je 3-10 cm dolg.",
+          "cvetovi": "Cvetovi so enospolni. Posamezni moški cvetovi imajo neznatno cvetno odevalo, sestavljeno iz 3-8 čašnih in venčnih listov in 3-4 prašnikov, združeni pa so v rumenkaste viseče okroglaste glavice. Ženski cvetovi so združeni v rdeče okroglaste glavice, posamezen cvet sestavlja 5-9 prostih plodnih listov.",
+          "plodovi": "Glavičasta soplodja v premeru merijo do 2,5 cm, po 2, redkeje po 3 so združena na skupnem peclju. Soplodja začnejo na drevesu razpadati zgodaj spomladi. Posamezni plodovi so z rumenim šopkom dlačic na enem koncu obrasli enosemenski oreški.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "prunus_avium": {
+          "slo": "divja češnja",
+          "lat": "Prunus avium",
+          "ita": "ciliegio selvatico",
+          "videz": "Divja češnja zraste do 25 m visoko in običajno ne preseže 0,8 m v premeru. Redko preseže starost 100 let. Ko doseže starost okoli 60 let, preneha rasti v višino in les začne počasi trohneti. Deblo poteka pogosto skoraj do vrha. Skorja divje češnje je rjavosiva ali svetlosiva in tanka. Pri starejših drevesih se lubje lušči v trakovih, skorja pa razpoka. Koreninski sistem se prilagodi globini gozdnih tal.",
+          "listi": "Listi so premenjalno razporejeni, enostavni, podolgovato jajčasti ali eliptični, po robu nepravilno nažagani, spodaj so najprej dlakavi, pozneje goli, dlačice se ohranijo samo ob žilah. Dosežejo dolžino do 12 cm. Na vrhu peclja sta dve jasno vidni rdeči žlezi.",
+          "cvetovi": "Divja češnja cveti aprila in maja ter se istočasno olista. Cvetovi so bele barve in po 2-3 združeni v sedeče kobule.",
+          "plodovi": "Koščičasti plodovi, češnje, dozorijo sredi poletja in so manjši kot pri domači češnji.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "sambucus_nigra": {
+          "slo": "črni bezeg",
+          "lat": "Sambucus nigra",
+          "ita": "sambuco",
+          "videz": "Črni bezeg je do 7 m visok listopaden grm ali do 10 m visoko drevo, ki ima okroglasto ali dežnikasto, redko krošnjo. Skorja je na vejah sivorjava do sivozelena in večkrat prekrita z velikimi lenticelami; na debelejših deblih je sivkasta in vzdolžno razpokana.",
+          "listi": "Listi so 10-30 cm dolgi in lihopernato sestavljeni s 5-7 lističev. Ti so eliptični, 6-10 cm dolgi, priostreni, po robu nazobčani, zgoraj temnejši in spodaj svetlejši.",
+          "cvetovi": "Cvetovi so dvospolni, 5-števni, drobni, beli, dišeči in združeni v široko ploščatih, visečih pakobulih.",
+          "plodovi": "Jagodasti koščičasti plodovi dozorijo avgusta ali septembra. So črni, bleščeči, sočni, največkrat 3-prekatni in debeli do 6 mm. Običajno vsebujejo po tri semena. Plodovi so združeni v pakobulasta soplodja.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "tilia_cordata": {
+          "slo": "lipovec",
+          "lat": "Tilia cordata",
+          "ita": "tiglio selvatico",
+          "videz": "Lipovec je do 30 m visoko listopadno drevo s široko krošnjo. Skorja je v prvih letih življenja gladka in zelenkasto rjava, pozneje potemni in vzdolžno razpoka.",
+          "listi": "Listi so premenjalno nameščeni, enostavni, pravilne srčaste oblike, 4-10 cm dolgi in enako široki. Po robu so drobno nažagani. V pazduhah žil imajo šopke rjastih dlačic. Pecelj je gol in 1,5-3 cm dolg.",
+          "cvetovi": "Dvospolni cvetovi so dišeči in rumenozelene barve. Cvet ima 5 čašnih in 5 venčnih listov, iz 5 plodnih listov zraslo plodnico in do 30 prašnikov. Po 5-11 cvetov je združenih v socvetje, ki je s skupnim pecljem pritrjeno ja rumen ovršni list (braktejo).",
+          "plodovi": "Plod je večsemenski, okroglasti, 5-7 mm debel orešek. Po površini je rahlo puhast in vsebuje 1-2 temno rjavi semeni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "tilia_platiphyllos": {
+          "slo": "lipa",
+          "lat": "Tilia platiphyllos",
+          "ita": "tiglio nostrano",
+          "videz": "Lipa je do 40 m visoko in do 5 m debelo listopadno drevo s široko krošnjo. Deblo je ravno in pravilno. Skorja je v sivorjava, včasih rahko rdečkasta in podobna lipovčevi, le da je v starosti globlje razpokana.",
+          "listi": "Listi so premenjalno nameščeni, enostavni, 7-15 cm dolgi, zašiljeni, srčasti in nesimetrični. V pazduhah žil imajo včasih drobne šopke belih dlačic (lipovec rjave!). Imajo 1,5-5 cm dolg, dlakav pecelj (lipovec gol!).",
+          "cvetovi": "Dvospolni cvetovi so petštevni, dišeči in rumeni. Po 2-5 rastejo v socvetjih na skupnem peclju, ki je zraščen z bledo rumenim ovršnim listom (braktejo).",
+          "plodovi": "Plodovi so okroglasti, 8-18 mm debeli in gosto dlakavi oreški, ki vsebujejo 1-2 semeni.",
+          "viri": [],
+          "viri_slike": {}
+        },
+        "ulmus_campestris": {
+          "slo": "poljski brest",
+          "lat": "Ulmus campestris",
+          "ita": "olmo campestre",
+          "videz": "Poljski brest zraste do 30 metrov visoko in doseže premer do 200 cm. Deblo je ravno, krošnja je široka in gosta. Skorja je rjave ali temno rjave barve in vzdolžno globoko razpokana. Na 2 do 5 let starih poganjkih se pojavijo plutasti izrastki. Koreninski sistem tvori glavna korenina, iz katere se razvijejo močne stranske korenine. Korenine dosežejo globino do 1,6 m.",
+          "listi": "Listi so do 10 cm dolgi in do 5 cm široki, jajčaste ali eliptične oblike. Ob peclju je listna ploskev močno asimetrična. Listni rob je dvojno nažagan.",
+          "cvetovi": "Drevo cveti pred olistanjem, od marca do aprila. Cvetovi so rjavo-rdeče barve, nevpadljivi, kratkopecljati, v šopih po 15-30.",
+          "plodovi": "Plodovi so okrogli in ploščati rjavi krilati oreščki, ki dozorijo maja in junija. Premer ploda je običajno 1,5 cm.",
+          "viri": [],
+          "viri_slike": {}
+        }
+      }
+    },
+    "sadna_drevesa": {
+      "name": "Sadna drevesa",
+      "plants": {
+      }
+    },
+    "vhod_greg_trub": {
+      "name": "Vhod pri krilu Gregorčič-Trubar",
+      "plants": {
+      }
+    },
+    "kisla_tla": {
+      "name": "Kisla tla",
+      "plants": {
+      }
+    },
+    "vhod_tel": {
+      "name": "Vhod v telovadnico",
+      "plants": {
+      }
+    },
+    "zas_izhod_tel": {
+      "name": "Zasilni izhod telovadnice",
+      "plants": {
+      }
+    },
+    "gred_greg": {
+      "name": "Gredica krila Gregorčič",
+      "plants": {
+      }
+    },
+    "gred_zois": {
+      "name": "Gredica krila Zois",
+      "plants": {
+      }
+    },
+    "gred_tur": {
+      "name": "Gredica turističnega liceja",
+      "plants": {
+      }
+    },
+    "ziva_meja_lic": {
+      "name": "Živa meja liceja",
+      "plants": {
+      }
+    },
+    "zoga_1": {
+      "name": "Žoga 1",
+      "plants": {
+      }
+    },
+    "zoga_2": {
+      "name": "Žoga 2",
+      "plants": {
+      }
+    }
+  }
+}
